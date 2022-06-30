@@ -1,0 +1,5351 @@
+==============================================================
+Guild: TGForever
+Channel: General / bot-commands
+==============================================================
+
+[19-Jun-22 05:54 PM] 5space#8508
+$$help
+
+
+[19-Jun-22 05:54 PM] 5space#8508
+@Birdsong cracker
+
+{Reactions}
+success (7) 
+
+[19-Jun-22 05:54 PM] MasterSpider5#6275
+!pain
+
+
+[19-Jun-22 05:54 PM] Ninobf#8750
+
+{Attachments}
+https://cdn.discordapp.com/attachments/988182794272395315/988185149399253002/unknown.png
+
+
+[19-Jun-22 05:55 PM] crystie#2200
+infraction
+
+
+[19-Jun-22 05:55 PM] crystie#2200
+isn’t it supposed to be infarction
+
+
+[19-Jun-22 05:57 PM] Ninobf#8750
+no
+
+
+[19-Jun-22 06:07 PM] NotJosh#2000
+isn’t it the second
+
+
+[19-Jun-22 06:07 PM] NotJosh#2000
+Pigeon came first
+
+
+[19-Jun-22 06:07 PM] Ninobf#8750
+thats the joke
+
+
+[19-Jun-22 06:19 PM] crunkky#1706
+6th
+
+
+[19-Jun-22 06:19 PM] crunkky#1706
+SIXTH
+
+
+[19-Jun-22 06:19 PM] NotJosh#2000
+ah
+
+
+[19-Jun-22 06:25 PM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+c!suggest give me ct
+
+
+[19-Jun-22 06:25 PM] Carl-bot#1536
+⚠️ Suggestion channel not found.
+
+
+[19-Jun-22 06:25 PM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+WHAT THE FUCK
+
+
+[19-Jun-22 06:25 PM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+@haha yes fix rn
+
+
+[19-Jun-22 06:25 PM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+rn
+
+
+[19-Jun-22 06:25 PM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+rn
+
+
+[19-Jun-22 06:25 PM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+rn
+
+
+[19-Jun-22 06:25 PM] haha yes#0921
+ok hold on
+
+
+[19-Jun-22 06:25 PM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+c!suggest give me ct role
+
+
+[19-Jun-22 06:25 PM] Carl-bot#1536
+⚠️ Suggestion channel not found.
+
+
+[19-Jun-22 06:25 PM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+wwwwwwwwwwwwwwwwwwwwhat
+
+
+[19-Jun-22 06:26 PM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+c!suggest test
+
+
+[19-Jun-22 06:26 PM] Carl-bot#1536
+⚠️ Suggestion channel not found.
+
+
+[19-Jun-22 06:26 PM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+c!suggest give me content team role right now i want to helpppppppp
+
+
+[19-Jun-22 06:26 PM] Carl-bot#1536
+⚠️ Suggestion channel not found.
+
+
+[19-Jun-22 06:26 PM] haha yes#0921
+i dont have perms rn
+
+
+[19-Jun-22 06:26 PM] haha yes#0921
+goofy ahh mod role
+
+
+[19-Jun-22 06:26 PM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+:e_screams:
+
+
+[19-Jun-22 06:32 PM] Carl-bot#1536
+
+{Embed}
+Electra#8540
+[Avatar](https://cdn.discordapp.com/avatars/592837227692818442/fe7bfee75a5c35aabfc5242cf7e0b9a4.png?size=1024)
+Roles
+No roles
+Created at
+2019-06-24 22:03:29 UTC
+ (2 years, 11 months and 25 days ago)
+Joined at
+2022-06-19 21:05:54 UTC
+ (26 minutes and 43 seconds ago) days after the server was created
+ID: 592837227692818442
+
+
+[19-Jun-22 06:32 PM] Carl-bot#1536
+
+{Embed}
+Info for TGForever
+Owner
+ablazingeboy#7375
+Features
+✅ Invite Splash
+✅ Vanity Invite
+✅ News Channels
+✅ Animated Icon
+✅ Banner
+Boosts
+Level 3 (maxed)
+Carlbot premium
+[❌ click me](https://www.patreon.com/carlbot)
+Channels
+:discord_text_channel: 30 (13 locked)
+:discord_voice_channel: 2 (1 locked)
+Info
+✅ Scanning Images
+Verification level: medium
+Voice region: deprecated
+[Icon link](https://cdn.discordapp.com/icons/926212597513093202/a_53b5e4576d97842733178a72c0c11001.png)
+Prefixes
+@Carl-bot 
+c?
+c!
+Members
+Total: 461
+Humans: 458
+Bots: 3
+Roles
+12 roles
+https://images-ext-1.discordapp.net/external/uXwVbS4dUvQd0Cy2fgOUBd3hoXRMQJxAcmjdjvGChIo/%3Fsize%3D1024/https/cdn.discordapp.com/icons/926212597513093202/a_53b5e4576d97842733178a72c0c11001.gif
+ID: 926212597513093202, Created
+
+
+[19-Jun-22 06:40 PM] haha yes#0921
+c!accept 1 success
+
+
+[19-Jun-22 06:40 PM] Salt#5507
+c!star
+
+
+[19-Jun-22 06:40 PM] Carl-bot#1536
+Starboard needs to be set up before executing this command. Type **c!star** to set up starboard. (Only users with manage guild permission can create starboard)
+
+
+[19-Jun-22 06:41 PM] Jacki#4312
+WHERE is starboard bot…
+
+
+[19-Jun-22 06:42 PM] haha yes#0921
+c!accept 1 success
+
+
+[19-Jun-22 06:42 PM] haha yes#0921
+c!accept 300 success
+
+
+[19-Jun-22 06:49 PM] mielle#0001
+!!points
+
+{Reactions}
+success 
+
+[19-Jun-22 06:49 PM] TecnaGamer#7772
+c!serverinfo
+
+
+[19-Jun-22 06:49 PM] Carl-bot#1536
+
+{Embed}
+Info for TGForever
+Owner
+ablazingeboy#7375
+Features
+✅ Invite Splash
+✅ Vanity Invite
+✅ News Channels
+✅ Animated Icon
+✅ Banner
+Boosts
+Level 3 (maxed)
+Carlbot premium
+[❌ click me](https://www.patreon.com/carlbot)
+Channels
+:discord_text_channel: 50 (31 locked)
+:discord_voice_channel: 6 (2 locked)
+Info
+✅ Scanning Images
+Verification level: medium
+Voice region: deprecated
+[Icon link](https://cdn.discordapp.com/icons/926212597513093202/a_53b5e4576d97842733178a72c0c11001.png)
+Prefixes
+@Carl-bot 
+c?
+c!
+Members
+Total: 470
+Humans: 467
+Bots: 3
+Roles
+14 roles
+https://images-ext-1.discordapp.net/external/uXwVbS4dUvQd0Cy2fgOUBd3hoXRMQJxAcmjdjvGChIo/%3Fsize%3D1024/https/cdn.discordapp.com/icons/926212597513093202/a_53b5e4576d97842733178a72c0c11001.gif
+ID: 926212597513093202, Created
+
+
+[19-Jun-22 06:57 PM] Hapho#3077
+/serverinfo
+
+
+[19-Jun-22 06:59 PM] Hapho#3077
+!!logs 277489480917843969
+
+
+[19-Jun-22 06:59 PM] Birdsong#5535
+
+{Embed}
+Logs for Hapho#3077
+> @Hapho
+> Points: `0`
+> Member has no active punishment.
+
+**No logs found on page 1.**
+
+
+[19-Jun-22 06:59 PM] Hapho#3077
+!!logs vilhu#0001
+
+
+[19-Jun-22 06:59 PM] Birdsong#5535
+
+{Embed}
+Error: invalid arguments!
+Please check your syntax and try again.
+
+
+[19-Jun-22 06:59 PM] Hapho#3077
+!!logs 240480364424855570
+
+
+[19-Jun-22 06:59 PM] Birdsong#5535
+
+{Embed}
+Logs for Vilhu#0001
+> @Unknown
+> Points: `0`
+> Member has no active punishment.
+> Member is not in this server.
+
+**No logs found on page 1.**
+
+
+[19-Jun-22 07:00 PM] Jacki#4312
+!!logs 398590426560462848
+
+
+[19-Jun-22 07:00 PM] Jacki#4312
+1984
+
+
+[19-Jun-22 07:08 PM] Hapho#3077
+!!logs 943331214251663432
+
+
+[19-Jun-22 07:09 PM] Jacki#4312
+GARBAGE bot
+
+
+[19-Jun-22 07:12 PM] Hapho#3077
+c!serverinfo
+
+
+[19-Jun-22 07:12 PM] Carl-bot#1536
+
+{Embed}
+Info for TGForever
+Owner
+ablazingeboy#7375
+Features
+✅ Invite Splash
+✅ Vanity Invite
+✅ News Channels
+✅ Animated Icon
+✅ Banner
+Boosts
+Level 3 (maxed)
+Carlbot premium
+[❌ click me](https://www.patreon.com/carlbot)
+Channels
+:discord_text_channel: 53 (33 locked)
+:discord_voice_channel: 7 (3 locked)
+Info
+✅ Scanning Images
+Verification level: medium
+Voice region: deprecated
+[Icon link](https://cdn.discordapp.com/icons/926212597513093202/a_53b5e4576d97842733178a72c0c11001.png)
+Prefixes
+@Carl-bot 
+c?
+c!
+Members
+Total: 476
+Humans: 472
+Bots: 4
+Roles
+20 roles
+https://images-ext-1.discordapp.net/external/uXwVbS4dUvQd0Cy2fgOUBd3hoXRMQJxAcmjdjvGChIo/%3Fsize%3D1024/https/cdn.discordapp.com/icons/926212597513093202/a_53b5e4576d97842733178a72c0c11001.gif
+ID: 926212597513093202, Created
+
+
+[19-Jun-22 07:27 PM] Hapho#3077
+c!serverinfo
+
+
+[19-Jun-22 07:27 PM] Carl-bot#1536
+
+{Embed}
+Info for TGForever
+Owner
+ablazingeboy#7375
+Features
+✅ Invite Splash
+✅ Vanity Invite
+✅ News Channels
+✅ Animated Icon
+✅ Banner
+Boosts
+Level 3 (maxed)
+Carlbot premium
+[❌ click me](https://www.patreon.com/carlbot)
+Channels
+:discord_text_channel: 53 (33 locked)
+:discord_voice_channel: 7 (3 locked)
+Info
+✅ Scanning Images
+Verification level: medium
+Voice region: deprecated
+[Icon link](https://cdn.discordapp.com/icons/926212597513093202/a_53b5e4576d97842733178a72c0c11001.png)
+Prefixes
+@Carl-bot 
+c?
+c!
+Members
+Total: 479
+Humans: 475
+Bots: 4
+Roles
+20 roles
+https://images-ext-1.discordapp.net/external/uXwVbS4dUvQd0Cy2fgOUBd3hoXRMQJxAcmjdjvGChIo/%3Fsize%3D1024/https/cdn.discordapp.com/icons/926212597513093202/a_53b5e4576d97842733178a72c0c11001.gif
+ID: 926212597513093202, Created
+
+
+[19-Jun-22 07:34 PM] Biotic#5170
+c!remind 5s @everyone
+
+
+[19-Jun-22 07:34 PM] Carl-bot#1536
+Alright **Biotic**, I'll remind you about @​everyone in 6 seconds. ID: None
+
+
+[19-Jun-22 07:34 PM] Biotic#5170
+Damn.
+
+
+[19-Jun-22 07:37 PM] Hapho#3077
+c!serverinfo
+
+
+[19-Jun-22 07:37 PM] Carl-bot#1536
+
+{Embed}
+Info for TGForever
+Owner
+ablazingeboy#7375
+Features
+✅ Invite Splash
+✅ Vanity Invite
+✅ News Channels
+✅ Animated Icon
+✅ Banner
+Boosts
+Level 3 (maxed)
+Carlbot premium
+[❌ click me](https://www.patreon.com/carlbot)
+Channels
+:discord_text_channel: 52 (32 locked)
+:discord_voice_channel: 7 (3 locked)
+Info
+✅ Scanning Images
+Verification level: medium
+Voice region: deprecated
+[Icon link](https://cdn.discordapp.com/icons/926212597513093202/a_53b5e4576d97842733178a72c0c11001.png)
+Prefixes
+@Carl-bot 
+c?
+c!
+Members
+Total: 484
+Humans: 479
+Bots: 5
+Roles
+22 roles
+https://images-ext-1.discordapp.net/external/uXwVbS4dUvQd0Cy2fgOUBd3hoXRMQJxAcmjdjvGChIo/%3Fsize%3D1024/https/cdn.discordapp.com/icons/926212597513093202/a_53b5e4576d97842733178a72c0c11001.gif
+ID: 926212597513093202, Created
+
+
+[19-Jun-22 07:42 PM] summers#0577
+@FredBoat♪♪ play https://open.spotify.com/playlist/6Fxm4uk7DKZIfx6vwcBUUB?si=9094de8fbd2a455b
+
+{Embed}
+https://open.spotify.com/playlist/6Fxm4uk7DKZIfx6vwcBUUB?si=9094de8fbd2a455b
+Metal Gear Rising Boss Battles
+rabidmoogle · Playlist · 10 songs · 8.9K likes
+https://images-ext-2.discordapp.net/external/nJTM6fszSsCFGI1trtcmJAvMBnvCZxzbogAmdEljmWs/https/i.scdn.co/image/ab67616d0000b2733b8c38d1cba35f03dd278858
+
+
+[19-Jun-22 07:42 PM] FredBoat♪♪#7284
+No audio could be found for `https://open.spotify.com/playlist/6Fxm4uk7DKZIfx6vwcBUUB?si=9094de8fbd2a455b`.
+
+
+[19-Jun-22 07:42 PM] summers#0577
+@FredBoat♪♪ fuck you
+
+
+[19-Jun-22 07:43 PM] summers#0577
+@FredBoat♪♪ play https://open.spotify.com/track/5WTeKgqPGXPJJsARYOkHib?si=4bb5c00d6df44b9a
+
+{Embed}
+https://open.spotify.com/track/5WTeKgqPGXPJJsARYOkHib?si=4bb5c00d6df44b9a
+The Only Thing I Know For Real - Maniac Agenda Mix
+Jamie Christopherson · Song · 2013
+https://images-ext-2.discordapp.net/external/vyLDVMhaQ2Ee862_eine3LDb0qpWfuepQDYXPKwCjTk/https/i.scdn.co/image/ab67616d0000b273e65ad5e9fc72cba8ddee14a5
+
+
+[19-Jun-22 07:43 PM] FredBoat♪♪#7284
+No audio could be found for `https://open.spotify.com/track/5WTeKgqPGXPJJsARYOkHib?si=4bb5c00d6df44b9a`.
+
+
+[19-Jun-22 07:43 PM] FredBoat♪♪#7284
+All users have left the voice channel. The player has been paused.
+
+
+[19-Jun-22 07:44 PM] Hapho#3077
+lol
+
+
+[19-Jun-22 07:44 PM] Hapho#3077
+@summers fredboat doesnt do spotify
+
+
+[19-Jun-22 07:44 PM] summers#0577
+@FredBoat♪♪ I FUCKING HATE YOU
+
+
+[19-Jun-22 07:44 PM] summers#0577
+hope your source code gets leaked
+
+
+[19-Jun-22 07:47 PM] Hapho#3077
+c!serverinfo
+
+
+[19-Jun-22 07:47 PM] Carl-bot#1536
+
+{Embed}
+Info for TGForever
+Owner
+ablazingeboy#7375
+Features
+✅ Invite Splash
+✅ Vanity Invite
+✅ News Channels
+✅ Animated Icon
+✅ Banner
+Boosts
+Level 3 (maxed)
+Carlbot premium
+[❌ click me](https://www.patreon.com/carlbot)
+Channels
+:discord_text_channel: 53 (33 locked)
+:discord_voice_channel: 7 (3 locked)
+Info
+✅ Scanning Images
+Verification level: medium
+Voice region: deprecated
+[Icon link](https://cdn.discordapp.com/icons/926212597513093202/a_53b5e4576d97842733178a72c0c11001.png)
+Prefixes
+@Carl-bot 
+c?
+c!
+Members
+Total: 486
+Humans: 481
+Bots: 5
+Roles
+22 roles
+https://images-ext-1.discordapp.net/external/uXwVbS4dUvQd0Cy2fgOUBd3hoXRMQJxAcmjdjvGChIo/%3Fsize%3D1024/https/cdn.discordapp.com/icons/926212597513093202/a_53b5e4576d97842733178a72c0c11001.gif
+ID: 926212597513093202, Created
+
+
+[19-Jun-22 08:22 PM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+What the duck
+
+
+[19-Jun-22 08:31 PM] Hapho#3077
+c!serverinfo
+
+
+[19-Jun-22 08:31 PM] Carl-bot#1536
+
+{Embed}
+Info for TGForever
+Owner
+ablazingeboy#7375
+Features
+✅ Invite Splash
+✅ Vanity Invite
+✅ News Channels
+✅ Animated Icon
+✅ Banner
+Boosts
+Level 3 (maxed)
+Carlbot premium
+[❌ click me](https://www.patreon.com/carlbot)
+Channels
+:discord_text_channel: 54 (34 locked)
+:discord_voice_channel: 7 (3 locked)
+Info
+✅ Scanning Images
+Verification level: medium
+Voice region: deprecated
+[Icon link](https://cdn.discordapp.com/icons/926212597513093202/a_53b5e4576d97842733178a72c0c11001.png)
+Prefixes
+@Carl-bot 
+c?
+c!
+Members
+Total: 494
+Humans: 489
+Bots: 5
+Roles
+23 roles
+https://images-ext-1.discordapp.net/external/uXwVbS4dUvQd0Cy2fgOUBd3hoXRMQJxAcmjdjvGChIo/%3Fsize%3D1024/https/cdn.discordapp.com/icons/926212597513093202/a_53b5e4576d97842733178a72c0c11001.gif
+ID: 926212597513093202, Created
+
+
+[19-Jun-22 08:31 PM] Hapho#3077
+almost back to 500 lmao
+
+
+[19-Jun-22 08:31 PM] Hapho#3077
+so basically we lost the Asians, some Europeans and some/most invite people
+
+
+[19-Jun-22 08:32 PM] Hapho#3077
+I'm guesstimating we get back to 650
+
+
+[19-Jun-22 08:48 PM] magnar#3825
+;;p kamikaze song
+
+
+[19-Jun-22 08:48 PM] FredBoat♪♪#7284
+Song **#2** has been selected: **"The Kamikaze Corps" - Song of The Kamikaze Pilots** (02:29)
+
+🆕 You can also view and control the player at https://fredboat.com/music-room/926212597513093202
+
+
+[19-Jun-22 08:48 PM] magnar#3825
+;;p 2
+
+
+[19-Jun-22 09:04 PM] Joeffended#8749
+;;p go2damoon
+
+
+[19-Jun-22 09:04 PM] FredBoat♪♪#7284
+Song **#1** has been selected: **Playboi Carti ft. Kanye West - Go2DaMoon (Official Audio)** (02:00)
+
+
+[19-Jun-22 09:04 PM] Joeffended#8749
+;;p 1
+
+
+[19-Jun-22 09:06 PM] Joeffended#8749
+;;p stop breathing
+
+
+[19-Jun-22 09:06 PM] FredBoat♪♪#7284
+Song **#1** has been selected: **Playboi Carti - Stop Breathing (Official Audio)** (03:39)
+
+
+[19-Jun-22 09:06 PM] Joeffended#8749
+;;p 1
+
+
+[19-Jun-22 09:08 PM] Joeffended#8749
+;;p rockstar made
+
+
+[19-Jun-22 09:08 PM] FredBoat♪♪#7284
+Song **#1** has been selected: **Playboi Carti - Rockstar Made (Official Audio)** (03:14)
+
+
+[19-Jun-22 09:08 PM] Joeffended#8749
+;;p 1
+
+
+[19-Jun-22 09:14 PM] Joeffended#8749
+;;p metamorphisis
+
+
+[19-Jun-22 09:14 PM] FredBoat♪♪#7284
+Song **#1** has been selected: **Playboi Carti ft. Kid Cudi - M3tamorphosis (Official Video)** (05:16)
+
+
+[19-Jun-22 09:14 PM] Joeffended#8749
+;;p 1
+
+
+[19-Jun-22 09:19 PM] Joeffended#8749
+;;p sky
+
+
+[19-Jun-22 09:19 PM] FredBoat♪♪#7284
+Song **#1** has been selected: **Playboi Carti - Sky (Official Audio)** (03:14)
+
+
+[19-Jun-22 09:19 PM] Joeffended#8749
+;;p 1
+
+
+[19-Jun-22 09:32 PM] Jacki#4312
+;;p 1 2 oatmeal
+
+
+[19-Jun-22 09:32 PM] FredBoat♪♪#7284
+Song **#1** has been selected: **1, 2 Oatmeal** (02:12)
+
+
+[19-Jun-22 09:32 PM] Jacki#4312
+;;p 1
+
+
+[19-Jun-22 09:43 PM] ovalgoatkid#9629
+;;p joker rap
+
+
+[19-Jun-22 09:43 PM] FredBoat♪♪#7284
+Song **#1** has been selected: **Joker Rap \| "Smile" \| Daddyphatsnaps [Joaquin Phoenix]** (04:16)
+
+
+[19-Jun-22 09:43 PM] ovalgoatkid#9629
+;;1
+
+
+[19-Jun-22 09:44 PM] ovalgoatkid#9629
+;;skip
+
+
+[19-Jun-22 09:44 PM] FredBoat♪♪#7284
+Skipped track #1: **Joker Rap \\| "Smile" \\| Daddyphatsnaps [Joaquin Phoenix]**
+
+
+[19-Jun-22 09:44 PM] ovalgoatkid#9629
+;;p if the joker could rap
+
+
+[19-Jun-22 09:44 PM] FredBoat♪♪#7284
+Song **#2** has been selected: **IF THE JOKER COULD BEATBOX...** (01:26)
+
+
+[19-Jun-22 09:44 PM] ovalgoatkid#9629
+;;2
+
+
+[19-Jun-22 09:56 PM] ovalgoatkid#9629
+;;p https://www.youtube.com/watch?v=gmHvSPBcChM&t=222s
+
+{Embed}
+Conway
+https://www.youtube.com/watch?v=gmHvSPBcChM&start=222
+FLOCKA MAKES A SQUEAKER RAGE!!
+In Today's video Flocka, NoGoodHood and myself are introduced to this spoiled, screaming 8 year-old that thinks he's the baddest kid in town! Don't worry, i'm sure you know what happens :)
+
+SNAPCHAT - Conway33
+
+PLEASE leave a like for Part 2!!  (lets hit 1,000)
+
+Friend in Video:
+Flocka - http://bit.ly/1zMSZBf
+
+  PREVIOUS VIDEOS:
+  ► BF1! - https...
+https://images-ext-1.discordapp.net/external/Cadden7s4VT48ZsQdeYa7pLCOKkYqh_ZNga4M4G736M/https/i.ytimg.com/vi/gmHvSPBcChM/maxresdefault.jpg
+
+
+[19-Jun-22 09:56 PM] FredBoat♪♪#7284
+**FLOCKA MAKES A SQUEAKER RAGE!!** will now play.
+
+
+[19-Jun-22 10:00 PM] ovalgoatkid#9629
+;;skip
+
+
+[19-Jun-22 10:00 PM] FredBoat♪♪#7284
+Skipped track #1: **FLOCKA MAKES A SQUEAKER RAGE!!**
+
+
+[19-Jun-22 10:09 PM] Jacki#4312
+;;p weezer
+
+
+[19-Jun-22 10:09 PM] FredBoat♪♪#7284
+Song **#1** has been selected: **Weezer - Say It Ain't So (Official Music Video)** (04:20)
+
+
+[19-Jun-22 10:09 PM] Jacki#4312
+;;p 1
+
+
+[19-Jun-22 10:10 PM] Joeffended#8749
+;;p only in dreams
+
+
+[19-Jun-22 10:10 PM] FredBoat♪♪#7284
+Song **#1** has been selected: **Only In Dreams** (08:00)
+
+
+[19-Jun-22 10:10 PM] Joeffended#8749
+;;p 1
+
+
+[19-Jun-22 10:11 PM] ovalgoatkid#9629
+;;p weezer in okinawa
+
+
+[19-Jun-22 10:11 PM] FredBoat♪♪#7284
+Song **#1** has been selected: **Say it Ain't So, In Too Deep cover International Incident in Okinawa live** (07:01)
+
+
+[19-Jun-22 10:11 PM] ovalgoatkid#9629
+;;1
+
+
+[19-Jun-22 10:11 PM] DozingDoge#5363
+Kypaf
+
+
+[19-Jun-22 10:18 PM] Jonthecool#7595
+:;q
+
+
+[19-Jun-22 10:18 PM] Jonthecool#7595
+;;q
+
+
+[19-Jun-22 10:18 PM] FredBoat♪♪#7284
+Page **1** of **1**.
+
+`[1]` \▶**Only In Dreams** added by **Joeffended** `[08:00]`
+`[2]` **Say it Ain't So, In Too Deep cover International Incident in Okinawa live** added by **ovalgoatkid** `[07:01]`
+
+There are **2** tracks with a remaining length of **[10:33]** in the queue.
+
+
+[19-Jun-22 10:18 PM] Jonthecool#7595
+;;p b.y.o.b
+
+
+[19-Jun-22 10:18 PM] FredBoat♪♪#7284
+Song **#1** has been selected: **System Of A Down - B.Y.O.B. (Official Video)** (04:23)
+
+
+[19-Jun-22 10:18 PM] Jonthecool#7595
+;;1
+
+
+[19-Jun-22 10:20 PM] Jonthecool#7595
+;;q
+
+
+[19-Jun-22 10:20 PM] FredBoat♪♪#7284
+Page **1** of **1**.
+
+`[1]` \▶**Only In Dreams** added by **Joeffended** `[08:00]`
+`[2]` **Say it Ain't So, In Too Deep cover International Incident in Okinawa live** added by **ovalgoatkid** `[07:01]`
+`[3]` **System Of A Down - B.Y.O.B. (Official Video)** added by **Jonthecool** `[04:23]`
+
+There are **3** tracks with a remaining length of **[13:19]** in the queue.
+
+
+[19-Jun-22 10:20 PM] Jonthecool#7595
+;;n
+
+
+[19-Jun-22 10:20 PM] Jonthecool#7595
+;;np
+
+
+[19-Jun-22 10:20 PM] FredBoat♪♪#7284
+
+{Embed}
+weezer
+Only In Dreams
+[06:11/08:00]
+
+Loaded from youtube
+Requested by Joeffended#8749
+
+
+[19-Jun-22 10:21 PM] ovalgoatkid#9629
+;;skip
+
+
+[19-Jun-22 10:21 PM] FredBoat♪♪#7284
+Skipped track #1: **Only In Dreams**
+
+
+[19-Jun-22 10:22 PM] Jonthecool#7595
+;;q
+
+
+[19-Jun-22 10:22 PM] FredBoat♪♪#7284
+Page **1** of **1**.
+
+`[1]` \▶**Say it Ain't So, In Too Deep cover International Incident in Okinawa live** added by **ovalgoatkid** `[07:01]`
+`[2]` **System Of A Down - B.Y.O.B. (Official Video)** added by **Jonthecool** `[04:23]`
+
+There are **2** tracks with a remaining length of **[09:55]** in the queue.
+
+
+[19-Jun-22 10:22 PM] FredBoat♪♪#7284
+Skipped track #1: **Say it Ain't So, In Too Deep cover International Incident in Okinawa live**
+
+
+[19-Jun-22 10:24 PM] Joeffended#8749
+;;p high to death
+
+
+[19-Jun-22 10:24 PM] FredBoat♪♪#7284
+Song **#3** has been selected: **High To Death** (05:36)
+
+
+[19-Jun-22 10:24 PM] Joeffended#8749
+;;p 3
+
+
+[19-Jun-22 10:24 PM] Joeffended#8749
+;;p micro cuts
+
+
+[19-Jun-22 10:24 PM] FredBoat♪♪#7284
+Song **#2** has been selected: **Micro Cuts** (03:39)
+
+
+[19-Jun-22 10:24 PM] Joeffended#8749
+;;p 2
+
+
+[19-Jun-22 10:35 PM] dti131#8960
+;;stop
+
+
+[19-Jun-22 10:35 PM] FredBoat♪♪#7284
+The queue has been emptied, `1` track has been removed.
+
+
+[19-Jun-22 10:35 PM] dti131#8960
+;;p oj alija aljo
+
+
+[19-Jun-22 10:35 PM] FredBoat♪♪#7284
+Song **#1** has been selected: **Oj Alija, Aljo!** (03:02)
+
+
+[19-Jun-22 10:35 PM] dti131#8960
+;;p 1
+
+
+[19-Jun-22 10:35 PM] FredBoat♪♪#7284
+Something went wrong!
+Track `Oj Alija, Aljo!` failed to load. Skipping...
+
+
+[19-Jun-22 10:35 PM] dti131#8960
+;;p oj alija aljo
+
+
+[19-Jun-22 10:35 PM] dti131#8960
+;;p oj alija aljo
+
+
+[19-Jun-22 10:35 PM] FredBoat♪♪#7284
+Song **#2** has been selected: **Oj Alija Aljo** (03:02)
+
+
+[19-Jun-22 10:35 PM] dti131#8960
+;;p 2
+
+
+[19-Jun-22 10:35 PM] dti131#8960
+;;join
+
+
+[19-Jun-22 10:35 PM] FredBoat♪♪#7284
+Joining Chatting 1
+
+
+[19-Jun-22 10:35 PM] Jonthecool#7595
+;;join
+
+
+[19-Jun-22 10:35 PM] FredBoat♪♪#7284
+Joining Chatting 1
+
+
+[19-Jun-22 10:35 PM] Jonthecool#7595
+;;p bnig chungs
+
+
+[19-Jun-22 10:35 PM] FredBoat♪♪#7284
+Please select a track from the buttons below.
+**1:** BIG CHUNGUS \| Official Main Theme \| Song by Endigo (01:52)
+**2:** Big Chungus original video. (02:24)
+**3:** Big Chungus. (09:42)
+**4:** big chungus vs shaggy unravel meme (full version) (03:57)
+**5:** Big Chungus eats the universe (02:41)
+
+
+[19-Jun-22 10:35 PM] Jonthecool#7595
+;;leave
+
+
+[19-Jun-22 10:35 PM] FredBoat♪♪#7284
+Left channel Chatting 1.
+
+
+[19-Jun-22 10:35 PM] Jonthecool#7595
+;;join
+
+
+[19-Jun-22 10:35 PM] FredBoat♪♪#7284
+Joining Chatting 1
+
+
+[19-Jun-22 10:38 PM] Joeffended#8749
+;;p citizen erazed
+
+
+[19-Jun-22 10:38 PM] FredBoat♪♪#7284
+Song **#3** has been selected: **Citizen Erased - Muse - Glastonbury 2004 \*\*VERY HIGH QUALITY\*\*** (07:46)
+
+
+[19-Jun-22 10:38 PM] Joeffended#8749
+;;p 3
+
+
+[19-Jun-22 10:38 PM] Joeffended#8749
+;;stop
+
+
+[19-Jun-22 10:38 PM] FredBoat♪♪#7284
+The queue has been emptied, `2` tracks have been removed.
+
+
+[19-Jun-22 10:38 PM] Joeffended#8749
+;;start
+
+
+[19-Jun-22 10:38 PM] Joeffended#8749
+;;join
+
+
+[19-Jun-22 10:38 PM] FredBoat♪♪#7284
+Joining Chatting 1
+
+
+[19-Jun-22 10:38 PM] Joeffended#8749
+;;play
+
+
+[19-Jun-22 10:38 PM] FredBoat♪♪#7284
+The player is not currently playing anything. Use the following syntax to add a song:
+;;play <url-or-search-terms>
+
+
+[19-Jun-22 10:39 PM] FredBoat♪♪#7284
+The queue is empty.
+
+
+[19-Jun-22 10:39 PM] Joeffended#8749
+;;p citizen erazed
+
+
+[19-Jun-22 10:39 PM] FredBoat♪♪#7284
+Song **#2** has been selected: **Muse - Citizen Erased [HD]** (07:20)
+
+
+[19-Jun-22 10:39 PM] Joeffended#8749
+;;p 2
+
+
+[19-Jun-22 10:39 PM] Jonthecool#7595
+@FredBoat♪♪@FredBoat♪♪@FredBoat♪♪
+
+
+[19-Jun-22 10:39 PM] FredBoat♪♪#7284
+Joining Chatting 1
+
+
+[19-Jun-22 10:39 PM] Jonthecool#7595
+sex
+
+
+[19-Jun-22 10:39 PM] Jonthecool#7595
+sex
+
+
+[19-Jun-22 10:39 PM] Jonthecool#7595
+sex
+
+
+[19-Jun-22 10:49 PM] FredBoat♪♪#7284
+All users have left the voice channel. The player has been paused.
+
+
+[19-Jun-22 10:51 PM] Jonthecool#7595
+;;join
+
+
+[19-Jun-22 10:51 PM] FredBoat♪♪#7284
+Joining Chatting 1
+
+
+[19-Jun-22 10:51 PM] Jonthecool#7595
+;;q
+
+
+[19-Jun-22 10:51 PM] FredBoat♪♪#7284
+Not currently playing anything.
+
+
+[19-Jun-22 10:51 PM] Jonthecool#7595
+;;p dont stop till you michael jackson
+
+
+[19-Jun-22 10:51 PM] FredBoat♪♪#7284
+Song **#2** has been selected: **Don't Stop 'Til You Get Enough** (06:06)
+
+
+[19-Jun-22 10:51 PM] Jonthecool#7595
+;;2
+
+
+[19-Jun-22 10:52 PM] dti131#8960
+;;p oj alija aljo
+
+
+[19-Jun-22 10:52 PM] FredBoat♪♪#7284
+Song **#2** has been selected: **Oj Alija Aljo** (03:02)
+
+
+[19-Jun-22 10:52 PM] dti131#8960
+;;p 2
+
+
+[19-Jun-22 10:58 PM] Jonthecool#7595
+;;p ingen uz marsala tito
+
+
+[19-Jun-22 10:58 PM] FredBoat♪♪#7284
+Song **#1** has been selected: **"Uz Maršala Tita" - Yugoslav Patriotic Song** (01:17)
+
+
+[19-Jun-22 10:58 PM] Jonthecool#7595
+;;1
+
+
+[19-Jun-22 11:03 PM] Jonthecool#7595
+!suggest low bitrate vc
+
+
+[19-Jun-22 11:04 PM] FredBoat♪♪#7284
+Song **#1** has been selected: **Transphobic Techno Bitch Got a Penis -  Your Favorite Martian music video** (03:25)
+
+
+[19-Jun-22 11:04 PM] FredBoat♪♪#7284
+Something went wrong!
+Track `Transphobic Techno Bitch Got a Penis -  Your Favorite Martian music video` failed to load. Skipping...
+
+
+[19-Jun-22 11:05 PM] Jacki#4312
+first try
+
+
+[19-Jun-22 11:05 PM] Jacki#4312
+,c!suggest
+
+
+[19-Jun-22 11:05 PM] Jacki#4312
+no comma
+
+
+[19-Jun-22 11:05 PM] Jonthecool#7595
+;;p orphan tears
+
+
+[19-Jun-22 11:05 PM] FredBoat♪♪#7284
+Song **#1** has been selected: **ORPHAN TEARS featuring Wax - (Your Favorite Martian music video)** (03:36)
+
+
+[19-Jun-22 11:05 PM] Jonthecool#7595
+;;1
+
+
+[19-Jun-22 11:06 PM] Jonthecool#7595
+;;lyrics
+
+
+[19-Jun-22 11:08 PM] Jonthecool#7595
+;;p yalla ya nasrallah
+
+
+[19-Jun-22 11:08 PM] FredBoat♪♪#7284
+Song **#2** has been selected: **Yalla ya nasralla     פרישמן והחלוצים - יאללה יא נסראללה** (03:01)
+
+
+[19-Jun-22 11:08 PM] Jonthecool#7595
+;;2
+
+
+[19-Jun-22 11:13 PM] Jonthecool#7595
+;;q
+
+
+[19-Jun-22 11:13 PM] FredBoat♪♪#7284
+Page **1** of **1**.
+
+`[1]` \▶**♂️ AssClap ♂️ (Right version) REUPLOAD** added by **dti131** `[02:40]`
+
+There is **1** track with a remaining length of **[02:32]** in the queue.
+
+
+[19-Jun-22 11:15 PM] Jonthecool#7595
+;;p mother anarchy
+
+
+[19-Jun-22 11:15 PM] FredBoat♪♪#7284
+Song **#1** has been selected: **Mother Anarchy Loves Her Sons [English Subtitle]** (02:55)
+
+
+[19-Jun-22 11:15 PM] Jonthecool#7595
+;;1
+
+
+[20-Jun-22 12:02 AM] dti131#8960
+;;p bosanska artilljerja
+
+
+[20-Jun-22 12:02 AM] FredBoat♪♪#7284
+Song **#1** has been selected: **Bosanska Artiljerija** (03:37)
+
+
+[20-Jun-22 12:02 AM] dti131#8960
+;;p 1
+
+
+[20-Jun-22 01:04 AM] emu#8271
+oo i know this song, this song fire
+
+
+[20-Jun-22 06:27 AM] Hapho#3077
+c!serverinfo
+
+
+[20-Jun-22 06:27 AM] Carl-bot#1536
+
+{Embed}
+Info for TGForever
+Owner
+ablazingeboy#7375
+Features
+✅ Invite Splash
+✅ Vanity Invite
+✅ News Channels
+✅ Animated Icon
+✅ Banner
+Boosts
+Level 3 (maxed)
+Carlbot premium
+[❌ click me](https://www.patreon.com/carlbot)
+Channels
+:discord_text_channel: 54 (34 locked)
+:discord_voice_channel: 7 (3 locked)
+Info
+✅ Scanning Images
+Verification level: medium
+Voice region: deprecated
+[Icon link](https://cdn.discordapp.com/icons/926212597513093202/a_53b5e4576d97842733178a72c0c11001.png)
+Prefixes
+@Carl-bot 
+c?
+c!
+Members
+Total: 524
+Humans: 519
+Bots: 5
+Roles
+24 roles
+https://images-ext-1.discordapp.net/external/uXwVbS4dUvQd0Cy2fgOUBd3hoXRMQJxAcmjdjvGChIo/%3Fsize%3D1024/https/cdn.discordapp.com/icons/926212597513093202/a_53b5e4576d97842733178a72c0c11001.gif
+ID: 926212597513093202, Created
+
+
+[20-Jun-22 07:49 AM] worm#5397
+yfm is the only real music in this world
+
+
+[20-Jun-22 02:57 PM] Ieatplastic_420#8470
+c!SHIT NVM IM STUPID I ALREADY ASKED THIS
+
+
+[20-Jun-22 03:04 PM] Hapho#3077
+c!implement 321 done
+
+
+[20-Jun-22 03:04 PM] Hapho#3077
+c!help
+
+
+[20-Jun-22 03:04 PM] Carl-bot#1536
+
+{Embed}
+Help | Hapho
+**HELP COMMANDS -**
+c!help levels
+Shows the rank card for a member.
+c!help leaderboard
+Lists your members based on their xp. Supply a page number to see people not on the frontpage (1-indexed)
+c!help twitch
+Help for twitch
+c!help youtube
+Does nothing without a subcommand
+*Note:- Help displays only prefix commands since slash commands are self explanatory!
+
+
+[20-Jun-22 03:04 PM] Hapho#3077
+c!implement 321 done
+
+
+[20-Jun-22 03:04 PM] Hapho#3077
+bot?
+
+
+[20-Jun-22 03:05 PM] Hapho#3077
+ugh who messed up the carl bot
+
+
+[20-Jun-22 03:06 PM] Jacki#4312
+it’s already there
+
+
+[20-Jun-22 03:06 PM] sincererimp#1473
+my suggestion got approved 3 times!!! new record!!
+
+
+[20-Jun-22 03:06 PM] Hapho#3077
+oh its c!implemented not c!implement
+
+
+[20-Jun-22 03:11 PM] Birdsong#5535
+
+{Embed}
+Error: invalid arguments!
+Please check your syntax and try again.
+
+
+[20-Jun-22 03:11 PM] Hapho#3077
+oopps
+
+
+[20-Jun-22 03:11 PM] Hapho#3077
+!!point 688197449411592259 1 Suggestions Misuse (2b) Suggestion #315
+
+
+[20-Jun-22 03:11 PM] Birdsong#5535
+
+{Embed}
+@ovalgoatkid now has 1 point; they have been warned.
+
+
+[20-Jun-22 03:12 PM] Hapho#3077
+!!point whippper#2991 1 Suggestions Misuse (2b) Suggestion #322
+
+
+[20-Jun-22 03:12 PM] Birdsong#5535
+
+{Embed}
+@Unknown now has 1 point; they have been warned.
+
+
+[20-Jun-22 03:14 PM] Hapho#3077
+i feel like a true discord mod
+
+
+[20-Jun-22 03:14 PM] Hapho#3077
+https://tenor.com/view/discord-mod-gif-24026936
+
+{Embed}
+https://tenor.com/view/discord-mod-gif-24026936
+https://images-ext-1.discordapp.net/external/vR5yl4dqa284vO2h-kEkgJv1Gsrtq7TxKGo69QoGv9s/https/media.tenor.com/R2oWKGG_Q0UAAAAD/discord-mod.png
+
+
+[20-Jun-22 03:22 PM] Jacki#4312
+you deserve it
+
+
+[20-Jun-22 03:40 PM] Gecko#6855
+!!points
+
+{Reactions}
+success (4) 
+
+[20-Jun-22 06:58 PM] Hapho#3077
+c!avatar @Hapho
+
+
+[20-Jun-22 06:58 PM] Carl-bot#1536
+
+{Embed}
+Avatar for Hapho#3077
+Link as
+[png](https://cdn.discordapp.com/avatars/277489480917843969/3842fd8c295dbcac339ea594e108fa00.png) | [jpg](https://cdn.discordapp.com/avatars/277489480917843969/3842fd8c295dbcac339ea594e108fa00.jpg) | [webp](https://cdn.discordapp.com/avatars/277489480917843969/3842fd8c295dbcac339ea594e108fa00.png?size=1024)
+https://images-ext-1.discordapp.net/external/zKlulef84gAwte--eoYF4dPzLsJ__QnKRE-44AlsiNw/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/277489480917843969/3842fd8c295dbcac339ea594e108fa00.png
+
+
+[20-Jun-22 06:58 PM] Hapho#3077
+I want to paint this
+
+
+[20-Jun-22 08:33 PM] Jacki#4312
+do it
+
+
+[21-Jun-22 04:37 AM] Hapho#3077
+c!help
+
+
+[21-Jun-22 04:38 AM] Hapho#3077
+uh oh
+
+
+[21-Jun-22 06:57 AM] emu#8271
+c!avatar @eeeееееееeeeeeeeeeeeeeeeeeeeee
+
+
+[21-Jun-22 06:57 AM] Carl-bot#1536
+
+{Embed}
+Avatar for eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+Link as
+[png](https://cdn.discordapp.com/avatars/684777717366915098/19c9fe3cafe44c5897044f9b12437be9.png) | [jpg](https://cdn.discordapp.com/avatars/684777717366915098/19c9fe3cafe44c5897044f9b12437be9.jpg) | [webp](https://cdn.discordapp.com/avatars/684777717366915098/19c9fe3cafe44c5897044f9b12437be9.png?size=1024)
+https://images-ext-1.discordapp.net/external/uNcwQxoGqXSPQHQ6_CIeLWfeXbYx5dNxBn0exj1QWPc/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/684777717366915098/19c9fe3cafe44c5897044f9b12437be9.png
+
+
+[21-Jun-22 02:36 PM] Solar Awe#1543
+c!temprole 280351510502834176 Brazil 999999d
+
+
+[21-Jun-22 02:36 PM] Carl-bot#1536
+
+{Embed}
+Temporary role added
+@Unknown has been granted the @Brazil role for 2737 years, 10 months and 26 days.
+
+
+[21-Jun-22 05:21 PM] LoomisFire#8565
+c!avatar @5space
+
+
+[21-Jun-22 05:21 PM] Carl-bot#1536
+
+{Embed}
+Avatar for 5space#8508
+Link as
+[png](https://cdn.discordapp.com/avatars/356837389500678145/0a4cae175ddee2cb79cd575dee70b503.png) | [jpg](https://cdn.discordapp.com/avatars/356837389500678145/0a4cae175ddee2cb79cd575dee70b503.jpg) | [webp](https://cdn.discordapp.com/avatars/356837389500678145/0a4cae175ddee2cb79cd575dee70b503.png?size=1024)
+https://images-ext-2.discordapp.net/external/a0Ed8KQlL4zZIeqXaaHfT1Yg3g3Rl1BhJX2f6yB_tIY/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/356837389500678145/0a4cae175ddee2cb79cd575dee70b503.png
+
+
+[21-Jun-22 05:22 PM] Hapho#3077
+c!avatar @TecnaGamer
+
+
+[21-Jun-22 05:22 PM] Carl-bot#1536
+
+{Embed}
+Avatar for TecnaGamer#7772
+Link as
+[png](https://cdn.discordapp.com/avatars/309183407219539989/e4767696240d50da63ad86d31c0cb73c.png) | [jpg](https://cdn.discordapp.com/avatars/309183407219539989/e4767696240d50da63ad86d31c0cb73c.jpg) | [webp](https://cdn.discordapp.com/avatars/309183407219539989/e4767696240d50da63ad86d31c0cb73c.png?size=1024)
+https://images-ext-2.discordapp.net/external/5B9P5PVoxzvw7vJuqTyihdGUmK6Eshwc9SE-JiOUu5c/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/309183407219539989/e4767696240d50da63ad86d31c0cb73c.png
+
+
+[21-Jun-22 05:23 PM] Hapho#3077
+
+{Attachments}
+https://cdn.discordapp.com/attachments/988182794272395315/988901903310139402/TecnaGamer.png
+
+
+[21-Jun-22 08:12 PM] Submadoge#0472
+fake
+
+
+[21-Jun-22 08:45 PM] Jacki#4312
+star statts
+
+
+[21-Jun-22 08:45 PM] Jacki#4312
+star stats
+
+
+[21-Jun-22 08:45 PM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 1
+**Times On Starboard**: 0
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 6
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 1
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 4
+**Most Stars Earned In**: #deleted-channel (12)
+**Most Stars On A Message**: **[12](https://discord.com/channels/926212597513093202/934210848946278401/976989005365248001)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 1%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 16.67%
+Worldwide Stats
+**Starred Messages**: 6
+**Total Stars**: 24
+**Average Stars Per Message**: 4
+**% Of Starred Messages By You**: 0.0006%
+**Most Stars On A Message**: 12
+
+
+[21-Jun-22 08:45 PM] Jacki#4312
+star stats 792903708676587523
+
+
+[21-Jun-22 08:45 PM] Starboard#0987
+
+{Embed}
+RuanauR#7900's Stats
+**Stars**: 1
+**Times On Starboard**: 0
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 6
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 0
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 2
+**Most Stars Earned In**: #deleted-channel (10)
+**Most Stars On A Message**: **[4](https://discord.com/channels/926212597513093202/926212598041546784/987523207030530098)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 1%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 0%
+Worldwide Stats
+**Starred Messages**: 6
+**Total Stars**: 11
+**Average Stars Per Message**: 2
+**% Of Starred Messages By You**: 0.0006%
+**Most Stars On A Message**: 4
+
+
+[21-Jun-22 08:46 PM] RuanauR#7900
+You know that doesnt count the pre nuke tgf
+
+
+[21-Jun-22 08:52 PM] Biotic#5170
+star top
+
+
+[21-Jun-22 08:52 PM] Starboard#0987
+
+{Embed}
+Leaderboard - Total Stars
+🏅 1:  @Solar Awe - Stars: 135 ✨
+🥈 2:  @haha yes - Stars: 60 ✨
+🥉 3:  @Unknown - Stars: 53 ✨
+
+🎖 4:  @summers - Stars: 52 ✨
+🎖 5:  @5space - Stars: 46 ✨
+🎖 6:  @Unknown - Stars: 39 ✨
+🎖 7:  @Unknown - Stars: 36 ✨
+🎖 8:  @Unknown - Stars: 32 ✨
+🎖 9:  @mielle - Stars: 32 ✨
+🎖 10:  @Ieatplastic_420 - Stars: 30 ✨
+Your Place: #36 | Page 1/6
+
+
+[21-Jun-22 08:52 PM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 7
+**Times On Starboard**: 0
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 12
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 6
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 9
+**Most Stars Earned In**: #deleted-channel (59)
+**Most Stars On A Message**: **[23](https://discord.com/channels/926212597513093202/934210848946278401/982093311261159425)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 1%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 50%
+Worldwide Stats
+**Starred Messages**: 12
+**Total Stars**: 103
+**Average Stars Per Message**: 9
+**% Of Starred Messages By You**: 0.0013%
+**Most Stars On A Message**: 23
+
+
+[22-Jun-22 03:35 AM] mielle#0001
+no way star stats reset too
+
+
+[22-Jun-22 03:35 AM] mielle#0001
+star stats
+
+
+[22-Jun-22 03:35 AM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 32
+**Times On Starboard**: 1
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 5
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 1
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 7
+**Most Stars Earned In**: #discord-mods (17)
+**Most Stars On A Message**: **[15](https://discord.com/channels/926212597513093202/988203148227268648/988525770861326417)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 1%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 20%
+Worldwide Stats
+**Starred Messages**: 6
+**Total Stars**: 37
+**Average Stars Per Message**: 6
+**% Of Starred Messages By You**: 0.0006%
+**Most Stars On A Message**: 15
+
+
+[22-Jun-22 03:35 AM] mielle#0001
+lmao
+
+
+[22-Jun-22 03:35 AM] mielle#0001
+ruhroh
+
+
+[22-Jun-22 03:50 AM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+star stats
+
+
+[22-Jun-22 03:50 AM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 38
+**Times On Starboard**: 1
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 28
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 9
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 7
+**Most Stars Earned In**: #deleted-channel (105)
+**Most Stars On A Message**: **[21](https://discord.com/channels/926212597513093202/926212598041546784/957354285023244388)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 3%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 32.14%
+Worldwide Stats
+**Starred Messages**: 28
+**Total Stars**: 197
+**Average Stars Per Message**: 7
+**% Of Starred Messages By You**: 0.003%
+**Most Stars On A Message**: 21
+
+
+[22-Jun-22 03:50 AM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+WHAT THE FUCK
+
+
+[22-Jun-22 03:50 AM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+MY STARS
+
+
+[22-Jun-22 03:50 AM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+NOOOOOOOOO
+
+
+[22-Jun-22 03:56 AM] Tangmar#3209
+If I had a nickel for every time starboard got messed up I would be a morbillionaire
+
+
+[22-Jun-22 04:19 AM] Startshow#1999
+Star stats
+
+
+[22-Jun-22 04:19 AM] Starboard#0987
+
+{Embed}
+Your Stats
+Worldwide Stats
+**Starred Messages**: 2
+**Total Stars**: 23
+**Average Stars Per Message**: 12
+**% Of Starred Messages By You**: 0.0002%
+**Most Stars On A Message**: 12
+
+
+[22-Jun-22 09:55 AM] MasterSpider5#6275
+star stats
+
+
+[22-Jun-22 09:55 AM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 5
+**Times On Starboard**: 0
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 9
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 1
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 3
+**Most Stars Earned In**: #deleted-channel (13)
+**Most Stars On A Message**: **[13](https://discord.com/channels/926212597513093202/934210848946278401/985305299885912194)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 1%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 11.11%
+Worldwide Stats
+**Starred Messages**: 9
+**Total Stars**: 31
+**Average Stars Per Message**: 3
+**% Of Starred Messages By You**: 0.0009%
+**Most Stars On A Message**: 13
+
+
+[22-Jun-22 10:38 AM] sincererimp#1473
+star stats
+
+
+[22-Jun-22 10:38 AM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 0
+**Times On Starboard**: 0
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 4
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 2
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 16
+**Most Stars Earned In**: #deleted-channel (64)
+**Most Stars On A Message**: **[36](https://discord.com/channels/926212597513093202/926212598041546784/944583269213679636)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 0%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 50%
+Worldwide Stats
+**Starred Messages**: 4
+**Total Stars**: 64
+**Average Stars Per Message**: 16
+**% Of Starred Messages By You**: 0.0004%
+**Most Stars On A Message**: 36
+
+
+[22-Jun-22 11:22 AM] Joeffended#8749
+star stats
+
+
+[22-Jun-22 11:22 AM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 0
+**Times On Starboard**: 0
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 3
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 2
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 12
+**Most Stars Earned In**: #deleted-channel (18)
+**Most Stars On A Message**: **[18](https://discord.com/channels/926212597513093202/983957856665628682/985931811421028443)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 0%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 66.67%
+Worldwide Stats
+**Starred Messages**: 3
+**Total Stars**: 37
+**Average Stars Per Message**: 12
+**% Of Starred Messages By You**: 0.0003%
+**Most Stars On A Message**: 18
+
+
+[22-Jun-22 11:22 AM] Joeffended#8749
+Wtf...
+
+
+[22-Jun-22 11:28 AM] workingonaname#2467
+Stupid bot
+
+
+[22-Jun-22 05:14 PM] LysFisk#6975
+star stats
+
+
+[22-Jun-22 05:14 PM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 32
+**Times On Starboard**: 2
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 9
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 6
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 11
+**Most Stars Earned In**: #deleted-channel (45)
+**Most Stars On A Message**: **[21](https://discord.com/channels/926212597513093202/988203148227268648/988214507090358313)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 1%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 66.67%
+Worldwide Stats
+**Starred Messages**: 9
+**Total Stars**: 101
+**Average Stars Per Message**: 11
+**% Of Starred Messages By You**: 0.0009%
+**Most Stars On A Message**: 21
+
+
+[22-Jun-22 05:14 PM] LysFisk#6975
+star top
+
+
+[22-Jun-22 05:14 PM] Starboard#0987
+
+{Embed}
+Leaderboard - Total Stars
+🏅 1:  @Solar Awe - Stars: 148 ✨
+🥈 2:  @haha yes - Stars: 80 ✨
+🥉 3:  @summers - Stars: 67 ✨
+
+🎖 4:  @Unknown - Stars: 54 ✨
+🎖 5:  @5space - Stars: 50 ✨
+🎖 6:  @eeeееееееeeeeeeeeeeeeeeeeeeeee - Stars: 43 ✨
+🎖 7:  @Unknown - Stars: 39 ✨
+🎖 8:  @Unknown - Stars: 39 ✨
+🎖 9:  @Unknown - Stars: 38 ✨
+**🎖 10:  @LysFisk - Stars: 32 ✨**
+Your Place: #10 | Page 1/7
+
+
+[22-Jun-22 05:59 PM] emerald#2123
+c!remind
+
+
+[22-Jun-22 06:00 PM] haha yes#0921
+top 2 are mods, coincidence?
+
+
+[22-Jun-22 06:00 PM] haha yes#0921
+star
+
+
+[22-Jun-22 06:00 PM] haha yes#0921
+star stats
+
+
+[22-Jun-22 06:00 PM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 80
+**Times On Starboard**: 3
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 30
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 8
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 6
+**Most Stars Earned In**: #general (72)
+**Most Stars On A Message**: **[17](https://discord.com/channels/926212597513093202/934210848946278401/984226391698575420)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 3%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 26.67%
+Worldwide Stats
+**Starred Messages**: 30
+**Total Stars**: 176
+**Average Stars Per Message**: 6
+**% Of Starred Messages By You**: 0.0031%
+**Most Stars On A Message**: 17
+
+
+[22-Jun-22 06:01 PM] emerald#2123
+c!remind list
+
+
+[22-Jun-22 06:01 PM] Carl-bot#1536
+```ID: 42441046 Date: 2022-06-28 00:42 Message: hear ruans explanation
+```
+
+
+[22-Jun-22 06:01 PM] emerald#2123
+ah ok that wasnt deleted
+
+
+[22-Jun-22 09:25 PM] dragonam#8155
+c!avatar @OhBoy
+
+
+[22-Jun-22 09:25 PM] Carl-bot#1536
+
+{Embed}
+Avatar for OhBoy#1331
+Link as
+[png](https://cdn.discordapp.com/avatars/471093808243671060/c659b3c17c4658bbe3e631a469657cd7.png) | [jpg](https://cdn.discordapp.com/avatars/471093808243671060/c659b3c17c4658bbe3e631a469657cd7.jpg) | [webp](https://cdn.discordapp.com/avatars/471093808243671060/c659b3c17c4658bbe3e631a469657cd7.png?size=1024)
+https://images-ext-1.discordapp.net/external/jVjwyfdJkHeUkg6LdQmtSeNsPSFqXsOUSX0NMZJSnZU/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/471093808243671060/c659b3c17c4658bbe3e631a469657cd7.png
+
+
+[22-Jun-22 09:26 PM] OhBoy#1331
+me
+
+
+[22-Jun-22 09:47 PM] Dangerous8eans#0875
+You
+
+
+[22-Jun-22 10:06 PM] Jacki#4312
+him
+
+
+[22-Jun-22 10:22 PM] Salt#5507
+c!star
+
+
+[22-Jun-22 10:22 PM] Carl-bot#1536
+
+{Embed}
+Server Starboard Stats
+11 messages starred with a total of 42 stars.
+Top Starred Posts
+🥇: [988203784004046908](https://discord.com/channels/926212597513093202/988182740375572540/988203710373036063) (14 stars)
+🥈: [988204259201941564](https://discord.com/channels/926212597513093202/988182740375572540/988203990875537551) (11 stars)
+Top Star Receivers
+🥇: @Jonthecool (15 stars)
+🥈: @Unknown (12 stars)
+🥉: @Unknown (5 stars)
+Top Star Givers
+🥇: @Salt (4 stars)
+🥈: @Unknown (3 stars)
+🥉: @Unknown (3 stars)
+Adding stars since
+
+
+[23-Jun-22 07:17 AM] MasterSpider5#6275
+help
+
+
+[23-Jun-22 07:18 AM] MasterSpider5#6275
+ah shit i'm like an old person when it comes to discord bots
+
+
+[23-Jun-22 07:18 AM] MasterSpider5#6275
+!commands
+
+
+[23-Jun-22 07:46 AM] InviteManagement#9732
+
+{Embed}
+InviteManagement
+Invite Leaderboard
+🥇@Unknown - 17 invites
+🥈@Unknown - 6 invites
+🥉@Unknown - 5 invites
+**4**@sincererimp - 4 invites
+**5**@Unknown - 3 invites
+**6**@Unknown - 2 invites
+**7**@Unknown - 2 invites
+**8**@Unknown - 2 invites
+**9**@Startshow - 1 invites
+**10**@Unknown - 1 invites
+Your position
+**4/11**
+Total invite contribution
+```fix
+You have currently contributed to 9.09% of the total invites for this guild.```
+https://images-ext-1.discordapp.net/external/W_a9_DA26fdysVAFFxBuNCWUCG4HTCapNs25UTHd0Ew/%3Fsize%3D128/https/cdn.discordapp.com/avatars/592837227692818442/7dd28b0478073bcbfed46657768092eb.jpg
+V3.2.1 - Like the bot? Consider voting for it by typing /vote (It would really help us out!)
+
+
+[23-Jun-22 09:07 AM] Hapho#3077
+star top
+
+
+[23-Jun-22 09:07 AM] Starboard#0987
+
+{Embed}
+Leaderboard - Total Stars
+🏅 1:  @Solar Awe - Stars: 186 ✨
+🥈 2:  @haha yes - Stars: 115 ✨
+🥉 3:  @summers - Stars: 77 ✨
+
+🎖 4:  @Unknown - Stars: 60 ✨
+🎖 5:  @Unknown - Stars: 55 ✨
+🎖 6:  @5space - Stars: 53 ✨
+🎖 7:  @dragonam - Stars: 49 ✨
+🎖 8:  @eeeееееееeeeeeeeeeeeeeeeeeeeee - Stars: 43 ✨
+🎖 9:  @Unknown - Stars: 39 ✨
+🎖 10:  @TecnaGamer - Stars: 34 ✨
+Your Place: #21 | Page 1/7
+
+
+[23-Jun-22 09:07 AM] Hapho#3077
+star top 2
+
+
+[23-Jun-22 09:07 AM] Starboard#0987
+
+{Embed}
+Leaderboard - Total Stars
+•  11:  @Unknown - Stars: 33 ✨
+•  12:  @LysFisk - Stars: 32 ✨
+•  13:  @mielle - Stars: 32 ✨
+•  14:  @Biotic - Stars: 32 ✨
+•  15:  @Ieatplastic_420 - Stars: 31 ✨
+•  16:  @Unknown - Stars: 31 ✨
+•  17:  @Unknown - Stars: 30 ✨
+•  18:  @Salt - Stars: 26 💫
+•  19:  @Tangmar - Stars: 26 💫
+•  20:  @Unknown - Stars: 26 💫
+Your Place: #21 | Page 2/7
+
+
+[23-Jun-22 09:08 AM] Hapho#3077
+star top 3
+
+
+[23-Jun-22 09:08 AM] Starboard#0987
+
+{Embed}
+Leaderboard - Total Stars
+**•  21:  @Hapho - Stars: 26 💫**
+•  22:  @Unknown - Stars: 25 💫
+•  23:  @Unknown - Stars: 25 💫
+•  24:  @Unknown - Stars: 25 💫
+•  25:  @Unknown - Stars: 21 💫
+•  26:  @Unknown - Stars: 20 💫
+•  27:  @NotJosh - Stars: 20 💫
+•  28:  @Unknown - Stars: 20 💫
+•  29:  @LoomisFire - Stars: 18 🌟
+•  30:  @Unknown - Stars: 18 🌟
+Your Place: #21 | Page 3/7
+
+
+[23-Jun-22 10:25 AM] Dangerous8eans#0875
+star top
+
+
+[23-Jun-22 10:25 AM] Starboard#0987
+
+{Embed}
+Leaderboard - Total Stars
+🏅 1:  @Solar Awe - Stars: 186 ✨
+🥈 2:  @haha yes - Stars: 115 ✨
+🥉 3:  @summers - Stars: 77 ✨
+
+🎖 4:  @Unknown - Stars: 60 ✨
+🎖 5:  @Unknown - Stars: 55 ✨
+🎖 6:  @5space - Stars: 53 ✨
+🎖 7:  @dragonam - Stars: 49 ✨
+🎖 8:  @eeeееееееeeeeeeeeeeeeeeeeeeeee - Stars: 43 ✨
+🎖 9:  @Unknown - Stars: 39 ✨
+🎖 10:  @TecnaGamer - Stars: 34 ✨
+Your Place: Not on the leaderboard. | Page 1/7
+
+
+[23-Jun-22 10:26 AM] Dangerous8eans#0875
+Fuck the leaderboard im built different
+
+
+[23-Jun-22 04:03 PM] RuanauR#7900
+star stats
+
+
+[23-Jun-22 04:03 PM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 1
+**Times On Starboard**: 0
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 6
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 0
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 2
+**Most Stars Earned In**: #deleted-channel (10)
+**Most Stars On A Message**: **[4](https://discord.com/channels/926212597513093202/926212598041546784/987523207030530098)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 1%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 0%
+Worldwide Stats
+**Starred Messages**: 6
+**Total Stars**: 11
+**Average Stars Per Message**: 2
+**% Of Starred Messages By You**: 0.0006%
+**Most Stars On A Message**: 4
+
+
+[23-Jun-22 04:03 PM] InviteManagement#9732
+
+{Embed}
+InviteManagement
+🤖Bot Information
+Here is a list of some general statistics relating to the InviteManagement bot.
+Guilds
+19,692
+Users
+6,088,603
+Channels
+887,248
+Ping
+103ms
+Bot Up Since
+2 days ago
+Total Commands
+28
+InviteManagement Version
+3.2.1
+Node.JS Version
+v16.14.2
+Bot RAM usage
+1565.85MB/7768MB
+Total Shards
+10
+Your Shard Id
+5
+Your Cluster Id
+0
+V3.2.1 - Like the bot? Consider voting for it by typing /vote (It would really help us out!)
+
+
+[23-Jun-22 04:27 PM] summers#0577
+star stats
+
+
+[23-Jun-22 04:27 PM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 77
+**Times On Starboard**: 3
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 44
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 11
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 6
+**Most Stars Earned In**: #deleted-channel (93)
+**Most Stars On A Message**: **[22](https://discord.com/channels/926212597513093202/934210848946278401/981726656110678080)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 5%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 25%
+Worldwide Stats
+**Starred Messages**: 44
+**Total Stars**: 244
+**Average Stars Per Message**: 6
+**% Of Starred Messages By You**: 0.0045%
+**Most Stars On A Message**: 22
+
+
+[23-Jun-22 05:36 PM] Dangerous8eans#0875
+star stats
+
+
+[23-Jun-22 05:36 PM] Starboard#0987
+
+{Embed}
+Your Stats
+Worldwide Stats
+**Starred Messages**: 2
+**Total Stars**: 9
+**Average Stars Per Message**: 5
+**% Of Starred Messages By You**: 0.0002%
+**Most Stars On A Message**: 8
+
+
+[23-Jun-22 10:49 PM] Salt#5507
+star explore
+
+
+[23-Jun-22 10:49 PM] Starboard#0987
+⭐ **7** | #skerg-blüdklan
+
+{Embed}
+super_epic_undertale_gamer69
+https://media.discordapp.net/attachments/734725699092611122/988565102418599986/unknown.png
+star explore™
+
+
+[23-Jun-22 10:49 PM] Salt#5507
+star explore
+
+
+[23-Jun-22 10:49 PM] Starboard#0987
+🌟 **16** | #the-dungeon-2™
+
+{Embed}
+Logface202
+​
+**[mikuta.mp4](https://cdn.discordapp.com/attachments/726476376626036757/989169860401569812/mikuta.mp4 "this is a rick roll")**
+star explore™
+
+
+[23-Jun-22 10:49 PM] Salt#5507
+star explore
+
+
+[23-Jun-22 10:49 PM] Starboard#0987
+⭐ **8** | #art
+
+{Embed}
+trovvie
+careful! blood splatter huhu 
+DPR Ian's "so beautiful" really reminded me of yejun and daejung! so i kinda did the spotify mv showy thing
+​
+||**[WAHDUAWHD.png](https://cdn.discordapp.com/attachments/739645614371111048/989107632524623892/SPOILER_WAHDUAWHD.png "star")**||
+star explore™
+
+
+[23-Jun-22 10:49 PM] Salt#5507
+star explore
+
+
+[23-Jun-22 10:49 PM] Starboard#0987
+⭐ **9** | #art-hall-of-fame
+
+{Embed}
+Starboard 🤖
+🌟 **14**  | #deleted-channel
+(ƒℓµƒƒყ ɳε૨∂)
+Le dance uwu
+​
+**[Click to jump to message!](https://discordapp.com/channels/284447205358829570/284660272445259778/731195222360326264)**
+​
+MessageID: 731195222360326264
+https://media.discordapp.net/attachments/284660272445259778/731195218610880512/le_dance.png
+star explore™
+
+
+[23-Jun-22 10:49 PM] Salt#5507
+Star explore
+
+
+[23-Jun-22 10:49 PM] Starboard#0987
+⭐ **9** | #general-chat
+
+{Embed}
+Angle
+how is a Rosa fan gonna say Daisy has too many alts smh
+star explore™
+
+
+[23-Jun-22 11:57 PM] NotJosh#2000
+star explore
+
+
+[23-Jun-22 11:57 PM] Starboard#0987
+⭐ **7** | #🌐-global
+
+{Embed}
+Cheems
+I'm the one who is supposed to moan
+star explore™
+
+
+[23-Jun-22 11:57 PM] NotJosh#2000
+star explore
+
+
+[23-Jun-22 11:57 PM] Starboard#0987
+⭐ **5** | #general-chat
+
+{Embed}
+Chillin N Drinkin
+because nuts is life
+Replying to turtles
+Why are nuts on shitboard
+star explore™
+
+
+[23-Jun-22 11:58 PM] NotJosh#2000
+star explore
+
+
+[23-Jun-22 11:58 PM] Starboard#0987
+⭐ **5** | #📷・selfies-and-pets
+
+{Embed}
+ItsHarrison
+Why do I never get to be little spoon
+star explore™
+
+
+[23-Jun-22 11:58 PM] NotJosh#2000
+this is too fun
+
+
+[23-Jun-22 11:58 PM] NotJosh#2000
+star explore
+
+
+[23-Jun-22 11:58 PM] Starboard#0987
+⭐ **8** | #6-hour-meme-channel
+
+{Embed}
+* 𝗘𝗹𝗼𝗻 𝗠𝘂𝘀𝗰𝘂𝗹𝗮𝗿 *
+​
+**[37282\_1.mp4](https://cdn.discordapp.com/attachments/679040890379173913/988555630073741353/37282_1.mp4 "hope you're having a great day")**
+star explore™
+
+
+[24-Jun-22 12:00 AM] NotJosh#2000
+that is surprisingly well made
+
+
+[24-Jun-22 12:00 AM] NotJosh#2000
+and it has morbius
+
+
+[24-Jun-22 12:00 AM] NotJosh#2000
+star explore
+
+
+[24-Jun-22 12:00 AM] Starboard#0987
+⭐ **5** | #social-corner
+
+{Embed}
+☀ | Sunnie | She/They/Xai | 🎶 🤖
+fucking shit dude that’s so cool 😎 yeah yeah that’s what’s up
+star explore™
+
+
+[24-Jun-22 12:00 AM] NotJosh#2000
+star explore
+
+
+[24-Jun-22 12:00 AM] Starboard#0987
+⭐ **9** | #shitposts
+
+{Embed}
+Caustic
+https://media.discordapp.net/attachments/339314939397406720/989214474894454824/plane.png
+star explore™
+
+
+[24-Jun-22 12:00 AM] NotJosh#2000
+star explore
+
+
+[24-Jun-22 12:00 AM] Starboard#0987
+⭐ **7** | #hobbies-and-self-pics
+
+{Embed}
+fabledworld
+Prices are going up…
+https://media.discordapp.net/attachments/713208992809222175/974403256157622352/IMG_6514.jpg
+star explore™
+
+
+[24-Jun-22 12:00 AM] NotJosh#2000
+star explore
+
+
+[24-Jun-22 12:00 AM] Starboard#0987
+⭐ **9** | #「-🎨╎artes
+
+{Embed}
+Azure Draftman
+https://media.discordapp.net/attachments/825171745353891841/988954354075697172/188_sin_titulo_20220621184940.jpg
+star explore™
+
+
+[24-Jun-22 12:01 AM] NotJosh#2000
+star explore
+
+
+[24-Jun-22 12:01 AM] Starboard#0987
+⭐ **9** | #✦︱general
+
+{Embed}
+kindacozi
+"hi im cozi im a trans girl which is kinda like a build-your-own-girlfriend kit if you think about it"
+star explore™
+
+
+[24-Jun-22 12:01 AM] NotJosh#2000
+hey wait a minute that’s true
+
+
+[24-Jun-22 08:03 AM] LysFisk#6975
+star explore
+
+
+[24-Jun-22 08:03 AM] Starboard#0987
+🌟 **13** | #screenshot-and-renders
+
+{Embed}
+umxr
+had to do something cause i got my gmod fixed
+https://media.discordapp.net/attachments/818926817825128488/988979522298867722/yee_yee_by_yeat.png
+star explore™
+
+
+[24-Jun-22 08:03 AM] LysFisk#6975
+star explore
+
+
+[24-Jun-22 08:03 AM] Starboard#0987
+
+{Embed}
+Cooldown
+You're using this command too frequently! Please wait 1.6s before using it again.
+The cooldown for this command is **5s**. 
+While you wait, why not **[join the support server](https://discord.gg/rZgxfbH)** and have fun talking to us, participate in polls which heavily determine what gets added to the bot, possible giveaways and much much more or **[vote for the bot](https://top.gg/bot/655390915325591629/vote)** to have this cooldown sawed in half!
+
+
+[24-Jun-22 08:03 AM] LysFisk#6975
+star explore
+
+
+[24-Jun-22 08:03 AM] Starboard#0987
+⭐ **9** | #creative
+
+{Embed}
+Sloth Hat
+:blobuwu:
+​
+**[DDAEB21C-9E87-4E06-895E-12C6E8CB2CDA.jpg](https://cdn.discordapp.com/attachments/441863839194152970/987603696856731678/DDAEB21C-9E87-4E06-895E-12C6E8CB2CDA.jpg "parmesan linguine")**
+https://media.discordapp.net/attachments/441863839194152970/987603696504430632/27DC0007-6554-45D2-9202-61D777B77C4F.jpg
+star explore™
+
+
+[24-Jun-22 11:54 AM] NotJosh#2000
+star explore
+
+
+[24-Jun-22 11:54 AM] Starboard#0987
+⭐ **5** | #6-hour-meme-channel
+
+{Embed}
+The Funny Man
+​
+**[real.mp4](https://cdn.discordapp.com/attachments/679040890379173913/988681227827568640/real.mp4 "please click this")**
+star explore™
+
+
+[24-Jun-22 11:54 AM] NotJosh#2000
+star explore
+
+
+[24-Jun-22 11:54 AM] Starboard#0987
+⭐ **6** | #🌙┊degens
+
+{Embed}
+Skadi
+how many minor inconveniences til i kay emm ess
+https://media.discordapp.net/attachments/912322729007513622/989079216693858344/unknown.png
+star explore™
+
+
+[24-Jun-22 11:54 AM] NotJosh#2000
+star explore
+
+
+[24-Jun-22 11:54 AM] Starboard#0987
+⭐ **6** | #general-chat
+
+{Embed}
+lazy_lauren
+poppy shit balls
+star explore™
+
+
+[24-Jun-22 11:54 AM] NotJosh#2000
+star explore
+
+
+[24-Jun-22 11:54 AM] Starboard#0987
+⭐ **5** | #general
+
+{Embed}
+Sad
+https://tenor.com/view/british-vaping-british-vape-vaping-angry-british-gif-24817613
+​
+**[GIF Video 1](https://media.tenor.com/71CG9JJkAUUAAAPo/british-vaping-british.mp4 "you are a great person")**
+star explore™
+
+
+[24-Jun-22 11:54 AM] NotJosh#2000
+star explore
+
+
+[24-Jun-22 11:54 AM] Starboard#0987
+⭐ **5** | #〉・💬・general
+
+{Embed}
+mattcorralszn
+He won't be feeling good after the nigga gets jumped
+star explore™
+
+
+[24-Jun-22 11:54 AM] NotJosh#2000
+whoa
+
+
+[24-Jun-22 11:54 AM] NotJosh#2000
+language
+
+
+[24-Jun-22 02:11 PM] xezelthawr#2828
+star explore
+
+
+[24-Jun-22 02:11 PM] Starboard#0987
+⭐ **9** | #general-mayhem
+
+{Embed}
+Arccharger
+https://media.discordapp.net/attachments/146065772848873472/989338203129528430/unknown-135.png
+star explore™
+
+
+[24-Jun-22 02:11 PM] xezelthawr#2828
+star explore
+
+
+[24-Jun-22 02:11 PM] Starboard#0987
+⭐ **6** | #art
+
+{Embed}
+J. Arr
+Not so artsy but today I remembered about this thing I did last year
+https://media.discordapp.net/attachments/951538342800019466/989004572737568848/Jeffbustsatwembley.png
+star explore™
+
+
+[24-Jun-22 02:11 PM] xezelthawr#2828
+star explore
+
+
+[24-Jun-22 02:11 PM] Starboard#0987
+⭐ **5** | #〉・💬・general
+
+{Embed}
+CURRYSLEGACY
+https://media.discordapp.net/attachments/870447233848455201/989753672990871582/CDFA882F-71BA-447D-B498-5170473A90F8.jpg
+star explore™
+
+
+[24-Jun-22 02:11 PM] xezelthawr#2828
+star explore
+
+
+[24-Jun-22 02:11 PM] Starboard#0987
+
+{Embed}
+Cooldown
+You're using this command too frequently! Please wait 1.3s before using it again.
+The cooldown for this command is **5s**. 
+While you wait, why not **[join the support server](https://discord.gg/rZgxfbH)** and have fun talking to us, participate in polls which heavily determine what gets added to the bot, possible giveaways and much much more or check out Starboard's **[Github page](https://github.com/TheNoob27/starboard-issues/issues)** where you can post bugs/suggestions instead of using the commands or **[become a patron](https://patreon.com/TheNoob27)** and unlock some sweet donator only features, and a donator only role in our discord server!
+
+
+[24-Jun-22 02:11 PM] xezelthawr#2828
+star explore
+
+
+[24-Jun-22 02:11 PM] Starboard#0987
+🌟 **11** | #art-and-fanfiction
+
+{Embed}
+inspyration
+the flag sucks how do i shade it
+https://media.discordapp.net/attachments/562277692691447828/673963380406485022/benrevoluted.png
+star explore™
+
+
+[24-Jun-22 02:11 PM] xezelthawr#2828
+star explore
+
+
+[24-Jun-22 02:11 PM] Starboard#0987
+⭐ **7** | #screenshot-and-renders
+
+{Embed}
+GmodPiggo
+https://media.discordapp.net/attachments/818926817825128488/989230398959652894/rp_tunturi_spring0004.jpg
+star explore™
+
+
+[24-Jun-22 03:02 PM] Biotic#5170
+star random
+
+
+[24-Jun-22 03:02 PM] Biotic#5170
+WHAT THE FUCK
+
+
+[24-Jun-22 03:02 PM] Biotic#5170
+:wheeze:
+
+
+[24-Jun-22 03:02 PM] Biotic#5170
+@Cooopl
+
+
+[24-Jun-22 03:03 PM] Biotic#5170
+@Salat
+
+
+[24-Jun-22 03:03 PM] Biotic#5170
+:omegawheeze:
+
+
+[24-Jun-22 03:13 PM] Salat#5744
+My brudda what the hell
+
+
+[24-Jun-22 03:42 PM] Cooopl#5402
+star help
+
+
+[24-Jun-22 03:42 PM] Starboard#0987
+
+{Embed}
+Help
+Commands: 36
+If you're new to the bot, you can set up your server using `star setup`.
+For more info on various features, you could read the **[guide](https://thenoob27.gitbook.io/starboard/)**.
+If you still need help, please join our **[support server](https://discord.gg/rZgxfbH)**.
+Starboard
+star **blacklist** (add/remove) ([user/role/channel])
+star **changesetting** ([channel]) <[setting]> <[value]>
+star **channelsettings** (list/create/edit/delete) ([name]) (...[channels])
+star **filters** ([channelSettings]) (add/remove/list/edit) (content/attachments/age/[filterNumber]) (...[options])
+star **force** ([channel]) <[messageID]>
+star **freeze** <[messageID]>
+star **halloffame** (add/remove/[page]) ([messageID])
+star **leaderboard** (messages/stars/starboarded/global/trashed/downvotes/channels/servers/reset) ([page]) ([user]) ([channel])
+star **lock** <[messageID]>
+star **messageinfo** <[messageID]>
+star **migrate** ([starboard]) ([limit])
+star **purge** ([channel]) <[messages]>
+star **quickactions** 
+star **migrate** ([channel]) ([messageID])
+star **rewardroles** ([channelSettings]) (add/remove) ([role]) ([stars])
+star **save** ([channel]) <[messageID]>
+star **settings** ([channelSettings]) ([setting])
+star **setup** ([channel])
+star **show** <moststarred/[messageID]>
+star **stats** ([user])
+​
+star **trash** (add/remove/exists/clear/list) ([messageID])
+star **unfreeze** <[messageID]>
+star **unlock** <[messageID]>
+star **whitelist** (add/remove) ([user/role])
+Utility
+star **debug** ([channel]) ([messageID])
+star **languages** ([language])
+star **ping** 
+star **prefixes** (add/remove) ([prefix])
+star **redeem** <[code]>
+star **suggest** <[suggestion]>
+Information
+star **botinfo** (bot/star)
+star **help** ([command])
+star **links** 
+star **premium**
+Fun
+star **explore** ([stars]) (me/user/server/global) ([user])
+star **starworthy** <[messageID]>
+() = optional, <> = required, [] = a placeholder, -- = optional flags - don't include these when using the commands.
+
+
+[24-Jun-22 03:44 PM] Cooopl#5402
+star setup
+
+
+[24-Jun-22 03:44 PM] Starboard#0987
+
+{Embed}
+Setup
+Here I will walk you through **some** of the settings to help you set me up in this server.
+Say `cancel` or `stop` to cancel the setup, `skip` or `next` to skip to the next setting, and `end` to skip to the end.
+
+**Setting**: Language
+Please input a `language`.
+
+The language of the server. The languages that are currently available are English (GB), English (US), Spanish, Fuwwy. Note that not all languages are completed, English and Spanish are the only ones completed.
+You can stop, skip or skip to the end at any time. Setting 1/10
+
+
+[24-Jun-22 03:44 PM] Cooopl#5402
+Skip
+
+
+[24-Jun-22 03:44 PM] Starboard#0987
+Skipped the setting.
+
+{Embed}
+Setup
+Here I will walk you through **some** of the settings to help you set me up in this server.
+Say `cancel` or `stop` to cancel the setup, `skip` or `next` to skip to the next setting, and `end` to skip to the end.
+
+**Setting**: Starboard
+Please input a `channel`.
+
+If you want me to create a starboard channel for you, input `create`, optionally followed by the name of the channel, such as `create message-museum` (will be "starboard" by default).
+You can stop, skip or skip to the end at any time. Setting 2/10
+
+
+[24-Jun-22 03:44 PM] Cooopl#5402
+Skip
+
+
+[24-Jun-22 03:44 PM] Starboard#0987
+Skipped the setting.
+
+{Embed}
+Setup
+Here I will walk you through **some** of the settings to help you set me up in this server.
+Say `cancel` or `stop` to cancel the setup, `skip` or `next` to skip to the next setting, and `end` to skip to the end.
+
+**Setting**: Required
+Please input a `number`.
+
+This is how many stars a message needs before reaching the starboard. Currently, if 8 different people star a message, it will then be posted to the starboard.
+You can stop, skip or skip to the end at any time. Setting 3/10
+
+
+[24-Jun-22 03:44 PM] Cooopl#5402
+Skip
+
+
+[24-Jun-22 03:44 PM] Starboard#0987
+Skipped the setting.
+
+{Embed}
+Setup
+Here I will walk you through **some** of the settings to help you set me up in this server.
+Say `cancel` or `stop` to cancel the setup, `skip` or `next` to skip to the next setting, and `end` to skip to the end.
+
+**Setting**: RequiredToRemove
+Please input a `number`.
+
+When a message on the starboard drops to this number, it will get removed from the starboard. Currently, if a message in the starboard drops below 6 stars, it will then be removed from the starboard.
+You can stop, skip or skip to the end at any time. Setting 4/10
+
+
+[24-Jun-22 03:44 PM] Cooopl#5402
+Skip
+
+
+[24-Jun-22 03:44 PM] Starboard#0987
+Skipped the setting.
+
+{Embed}
+Setup
+Here I will walk you through **some** of the settings to help you set me up in this server.
+Say `cancel` or `stop` to cancel the setup, `skip` or `next` to skip to the next setting, and `end` to skip to the end.
+
+**Setting**: Permission
+Please input a `permission`.
+
+This is the permission users need to have before performing various actions, such as trashing messages, changing settings and blacklisting users.
+When setting the permission, you can input something like `MANAGE_MESSAGES`, `Manage Messages`, `Manage-Messages` or `8192`. For multiple permissions, use a permissions calculator.
+You can stop, skip or skip to the end at any time. Setting 5/10
+
+
+[24-Jun-22 03:44 PM] Cooopl#5402
+Skip
+
+
+[24-Jun-22 03:44 PM] Starboard#0987
+Skipped the setting.
+
+{Embed}
+Setup
+Here I will walk you through **some** of the settings to help you set me up in this server.
+Say `cancel` or `stop` to cancel the setup, `skip` or `next` to skip to the next setting, and `end` to skip to the end.
+
+**Setting**: FilterBots
+Please input `true/false/yes/no`.
+
+Whether or not bots should be filtered off the starboard. If you want bots to reach the starboard, don't enable this.
+You can stop, skip or skip to the end at any time. Setting 6/10
+
+
+[24-Jun-22 03:44 PM] Cooopl#5402
+Skip
+
+
+[24-Jun-22 03:44 PM] Starboard#0987
+Skipped the setting.
+
+{Embed}
+Setup
+Here I will walk you through **some** of the settings to help you set me up in this server.
+Say `cancel` or `stop` to cancel the setup, `skip` or `next` to skip to the next setting, and `end` to skip to the end.
+
+**Setting**: StarSelf
+Please input `true/false/yes/no`.
+
+If users are able to star their own messages.
+You can stop, skip or skip to the end at any time. Setting 7/10
+
+
+[24-Jun-22 03:44 PM] Cooopl#5402
+Skip
+
+
+[24-Jun-22 03:44 PM] Starboard#0987
+Skipped the setting.
+
+{Embed}
+Setup
+Here I will walk you through **some** of the settings to help you set me up in this server.
+Say `cancel` or `stop` to cancel the setup, `skip` or `next` to skip to the next setting, and `end` to skip to the end.
+
+**Setting**: DisplayNickname
+Please input `true/false/yes/no`.
+
+Whether or not the nickname of the author should be displayed instead of their Discord tag.
+You can stop, skip or skip to the end at any time. Setting 8/10
+
+
+[24-Jun-22 03:45 PM] Cooopl#5402
+Skip
+
+
+[24-Jun-22 03:45 PM] Starboard#0987
+Skipped the setting.
+
+{Embed}
+Setup
+Here I will walk you through **some** of the settings to help you set me up in this server.
+Say `cancel` or `stop` to cancel the setup, `skip` or `next` to skip to the next setting, and `end` to skip to the end.
+
+**Setting**: NoCommands
+Please input `true/false/yes/no`.
+
+If the bot should not respond to commands run by non-moderators, so the bot kinda "works in the background".
+You can stop, skip or skip to the end at any time. Setting 9/10
+
+
+[24-Jun-22 03:45 PM] Cooopl#5402
+Skip
+
+
+[24-Jun-22 03:45 PM] Starboard#0987
+Skipped the setting.
+
+{Embed}
+Setup
+Here I will walk you through **some** of the settings to help you set me up in this server.
+Say `cancel` or `stop` to cancel the setup, `skip` or `next` to skip to the next setting, and `end` to skip to the end.
+
+**Setting**: Visible
+Please input `true/false/yes/no`.
+
+This determines whether or not users can find this server's messages in `star explore`, and whether or not this server appears on the server leaderboard (`star leaderboard servers`). If you star personal/private stuff, you should definitely disable this. If this is enabled, a 🌍 will appear on starred messages that have been found in the explore command, followed by the number of times it was found.
+You can stop, skip or skip to the end at any time. Setting 10/10
+
+
+[24-Jun-22 03:45 PM] Cooopl#5402
+Bejajwiskf fj#
+
+
+[24-Jun-22 03:45 PM] Starboard#0987
+Please input `true/false/yes/no`.
+
+
+[24-Jun-22 03:46 PM] Cooopl#5402
+star help explore
+
+
+[24-Jun-22 03:46 PM] Starboard#0987
+Please input `true/false/yes/no`.
+
+
+[24-Jun-22 03:46 PM] Starboard#0987
+
+{Embed}
+Help
+Command: star explore
+**Aliases**: ex, g, global, random, rand
+**Description**: Bring up a random starred message from a user, your server or from any server! For a message to be brought up from any server, it has to have 5+ stars and the server has to have the **Visible** setting enabled.
+**Usage**: star explore ([stars]) (me/user/server/global) ([user])
+**Examples**: 
+`star explore 50`
+`star explore 10 @Pineapple`
+`star explore 50 server`
+`star explore me`
+Extra
+**Category**: Fun
+**Cooldown**: 5s
+**Enabled**: :yes:
+**Required Bot Permissions**: `Embed Links`
+**Required User Permissions**: `None`
+() = optional arguments, <> = required arguments, [] = a placeholder, -- = optional flag
+
+
+[24-Jun-22 03:47 PM] Cooopl#5402
+star explore disable
+
+
+[24-Jun-22 03:47 PM] Starboard#0987
+Please input `true/false/yes/no`.
+
+
+[24-Jun-22 03:47 PM] Starboard#0987
+⭐ **6** | #maiden-talk
+
+{Embed}
+Endless
+https://www.themetalvoice.com/post/iron-maiden-will-cover-the-remaining-costs-of-paul-di-anno-s-operation-s
+Iron Maiden Will Cover The Remaining Costs Of Paul Di'Anno's Operat...
+As posted today on Cart & Horses Facebook Page June 20 2022 "Announcement on Paul Di’Anno’s fundraising! I am very excited to announce that the Iron Maiden team have kindly agreed to cover the remaining cost of Paul Di'Annio's operation.  Not only are Iron Maiden the best band on this planet, they are kind-hearted and supported by an amazing tea...
+https://images-ext-1.discordapp.net/external/m4llREopZnFCUAVg61CaIr16b3ngG593xI0vRH06wQY/https/static.wixstatic.com/media/4a394c_11d4ef33b2cc4772ada9dabf7cc4fc20~mv2.jpg/v1/fit/w_867%252Ch_559%252Cal_c%252Cq_80/file.jpg
+star explore™
+
+
+[24-Jun-22 03:47 PM] Cooopl#5402
+star explore enabled false
+
+
+[24-Jun-22 03:47 PM] Starboard#0987
+Please input `true/false/yes/no`.
+
+Cancelled due to too many mistakes.
+
+
+[24-Jun-22 03:47 PM] Starboard#0987
+💫 **20** | #memes
+
+{Embed}
+riivo
+https://media.discordapp.net/attachments/580959480599150600/988889827837620254/IMG_4058.png
+star explore™
+
+
+[24-Jun-22 03:48 PM] Cooopl#5402
+star settings
+
+
+[24-Jun-22 03:48 PM] Starboard#0987
+
+{Embed}
+Main Settings
+**Language**: English (US)
+**Starboard**: #starboard
+**NSFWStarboard**: None
+**Required**: 8 stars
+**RequiredToRemove**: 6 stars
+**Permission**: `Manage Messages`
+**Reaction**: ⭐
+Filtering
+**StarSelf**: :no:
+**FilterBots**: :no:
+**FilterBlacklisted**: :yes:
+**BotsOnLB**: :no:
+**RemoveReactions**: :yes:
+Customisation
+**Clean**: :no:
+**Attachments**: :no:
+**MentionAuthor**: :no:
+**DisplayNickname**: :no:
+Events
+**LinkDeletes**: :no:
+**LinkEdits**: :yes:
+**OnDeletion**: nothing
+Miscellaneous
+**Visible**: :no:
+**QuickActions**: :yes:
+**KeepRoles**: :yes:
+**NoExplore**: :no:
+**NoLeaderboard**: :no:
+**NoCommands**: :no:
+Stars
+**First**: ⭐
+**Second**: 🌟
+**Third**: 💫
+**Fourth**: ✨
+Colors
+**First**: #eee2a0
+**Second**: #f0dd76
+**Third**: #ecd558
+**Fourth**: #eccc14
+Requirements
+**First**: 10
+**Second**: 20
+**Third**: 30
+To view info about a specific setting, run star settings <setting>
+
+
+[24-Jun-22 03:53 PM] Cooopl#5402
+star settings help
+
+
+[24-Jun-22 03:53 PM] Starboard#0987
+
+{Embed}
+Help
+Command: star settings
+**Aliases**: s, st
+**Description**: View the server/channel's settings, or view info about a specific setting.
+**Usage**: star settings ([channelSettings]) ([setting])
+**Examples**: 
+`star settings filterbots`
+`star settings server noexplore`
+`star settings emojis first`
+`star settings #vent linkedits`
+Extra
+**Category**: Starboard
+**Cooldown**: 2s
+**Enabled**: :yes:
+**Required Bot Permissions**: `Embed Links`
+**Required User Permissions**: `None`
+() = optional arguments, <> = required arguments, [] = a placeholder, -- = optional flag
+
+
+[24-Jun-22 03:54 PM] Cooopl#5402
+star settings server noexplore
+
+
+[24-Jun-22 03:54 PM] Starboard#0987
+
+{Embed}
+Settings
+**Setting**: NoExplore
+If the `star explore` command should be disabled for the server. Your messages will still appear in this command if the **Visible** setting is enabled.
+Data
+**Value**: :no:
+**Default**: :no:
+Permission
+You can change this setting with `star changesetting noExplore <true/false/yes/no>`.
+Aliases
+`Ne`, `DisableExplore` - You can also use any of these to change/view the setting.
+
+
+[24-Jun-22 03:55 PM] Cooopl#5402
+star changesetting noExplore true
+
+
+[24-Jun-22 03:55 PM] Starboard#0987
+
+{Embed}
+Updated Settings
+Users can no longer use the explore command.
+
+
+[24-Jun-22 03:55 PM] Cooopl#5402
+LETS GO
+
+
+[24-Jun-22 03:55 PM] Cooopl#5402
+star explore
+
+
+[24-Jun-22 03:55 PM] Cooopl#5402
+LETS GO
+
+
+[24-Jun-22 05:19 PM] Salt#5507
+star explore server
+
+
+[24-Jun-22 05:19 PM] Salt#5507
+@Cooopl
+
+
+[24-Jun-22 05:42 PM] Ieatplastic_420#8470
+star random
+
+
+[24-Jun-22 05:42 PM] Ieatplastic_420#8470
+a
+
+
+[24-Jun-22 05:42 PM] Ieatplastic_420#8470
+star fix my marriage
+
+
+[24-Jun-22 05:42 PM] Ieatplastic_420#8470
+nooo
+
+
+[24-Jun-22 06:14 PM] Salt#5507
+star changesetting noExplore false
+
+
+[24-Jun-22 06:14 PM] Starboard#0987
+
+{Embed}
+Updated Settings
+Users can now use the explore command.
+
+
+[24-Jun-22 06:47 PM] Salt#5507
+star explore
+
+
+[24-Jun-22 06:47 PM] Starboard#0987
+⭐ **5** | #〉casual
+
+{Embed}
+jasmine
+one time i was in an argument about white supremacy and the myth of toxic masculinity as if masculinity itself isn’t toxic and i brought up hegemony and then they were like well idk what that word means so ur wrong
+star explore™
+
+
+[24-Jun-22 06:47 PM] Salt#5507
+star explore
+
+
+[24-Jun-22 06:47 PM] Starboard#0987
+⭐ **6** | #general-mayhem
+
+{Embed}
+Atlylx
+https://media.discordapp.net/attachments/146065772848873472/989985929856966708/IMG_4281.png
+star explore™
+
+
+[24-Jun-22 06:47 PM] Salt#5507
+star explore server
+
+
+[24-Jun-22 06:47 PM] Starboard#0987
+No messages have been found from this server.
+
+{Reactions}
+⭐ (3) 
+
+[24-Jun-22 06:48 PM] Salt#5507
+star explore server
+
+
+[24-Jun-22 06:48 PM] Starboard#0987
+No messages have been found from this server.
+
+
+[24-Jun-22 06:48 PM] Salt#5507
+aga
+
+
+[24-Jun-22 06:48 PM] Salt#5507
+star random
+
+
+[24-Jun-22 06:48 PM] Starboard#0987
+🌟 **15** | #★-skin-updates
+
+{Embed}
+brenda
+**Kearney Sarah**
+https://media.discordapp.net/attachments/885798666017861672/989778243114659850/unknown.png
+star explore™
+
+
+[24-Jun-22 06:48 PM] Salt#5507
+star random
+
+
+[24-Jun-22 06:48 PM] Starboard#0987
+
+{Embed}
+Cooldown
+You're using this command too frequently! Please wait 40ms before using it again.
+The cooldown for this command is **5s**. 
+While you wait, why not **[join the support server](https://discord.gg/rZgxfbH)** and have fun talking to us, participate in polls which heavily determine what gets added to the bot, possible giveaways and much much more!
+
+
+[24-Jun-22 06:48 PM] Salt#5507
+star random
+
+
+[24-Jun-22 06:48 PM] Starboard#0987
+🌟 **10** | #fanworks
+
+{Embed}
+WeiWuu
+Not me drawin the two characters I auditioned for smh smh
+https://media.discordapp.net/attachments/952535049524351036/989304668729520158/20220622_190148.jpg
+star explore™
+
+
+[24-Jun-22 06:48 PM] Salt#5507
+star random
+
+
+[24-Jun-22 06:48 PM] Starboard#0987
+⭐ **6** | #📣│eventos-tbc
+
+{Embed}
+Profesor de Eventos Cat 🤖
+Extra event data for KR/TW anniversary
+```
+Gatya:
+- 24 June~~1 July: Catseyes Gatya
+
+- 24 June~... : 30/750 discount reset
+- 24~27 June: Best of the Best
+- 27 June~1 July: Ultra Selection
+```
+```
+Stage/Event:
+- 24 June~~1 July: Wildcat Slot
+- 24~27 June: Special Cat 50% Discount
+- 24 June~22 July: Traitless Citadel
+- 27 June~22 July: Red Citadel
+- 30 June~22 July: Black Citadel
+- 24 June~2 July: All-Star stages
+- 24 June~22 July: Monthly Event All-Stars Grateful Gathering
+- 24 June~7 July: Deadly Advent Festival
+- 24 June~7 July: The Angel & The Demon + The King & The Maiden + The King & The Angel
+- 24~30 June: Cybear's Vengeance
+- 24 June~22 July: Half Energy for EoC, ItF, and CotC (7am~9am, 12pm~2pm, 7pm~9pm)
+- 24 June~22 July: Treasure Festival
+- 24 June~~1 July: XP Harvest
+- 24 June~22 July: B-Day Gifts (reset every 12am)
+- 24 June~22 July: Platinum Ticket Mission
+- 24 June~22 July: Anniversary Ranking Dojo
+- 24 June~22 July: 한국판☆특별 스테이지 + 각성한 태권도 냥코의 습격! (KR version only)
+- 24 June~22 July: 小籠包★Q彈來襲 (TW version only)
+```
+```
+Item:
+- 24 June~22 July: [Special] Baozi Cat (TW version only)
+```
+```
+Sale:
+- 24 June~7 July: Anniversary Pack sale
+- 24 June~22 July: Gacha Cat Sale
+- 24 June~22 July: Platinum Ticket Sale
+```
+​
+**[Referenced Message](https://discord.com/channels/355179033018892289/737549522758270989/989115198377959464 "hi")**
+star explore™
+
+
+[24-Jun-22 08:35 PM] emerald#2123
+:tgfsurvey1::tgfsurvey2:
+
+
+[24-Jun-22 08:39 PM] Biotic#5170
+star random
+
+
+[24-Jun-22 08:39 PM] Starboard#0987
+🌟 **14** | #art
+
+{Embed}
+sporkberry
+goodman and kitty!! attorney's at law
+https://media.discordapp.net/attachments/628339390053351425/989575948666028052/unknown.png
+star explore™
+
+
+[24-Jun-22 08:44 PM] Biotic#5170
+star random
+
+
+[24-Jun-22 08:44 PM] Starboard#0987
+🌟 **12** | #server-glore
+
+{Embed}
+Lion_ElJonson14
+SheriffJohnModerator
+star explore™
+
+
+[24-Jun-22 08:44 PM] Biotic#5170
+star random
+
+
+[24-Jun-22 08:44 PM] Starboard#0987
+💫 **24** | #art-hall-of-fame
+
+{Embed}
+Starboard 🤖
+🌟 **14**  | 🌍 **0** | #deleted-channel
+Starboard - JerryBeere#1734
+​
+​
+**[Click to jump to message!](https://discordapp.com/channels/284447205358829570/284660272445259778/673434323763855362)**
+​
+MessageID: 673434323763855362
+https://media.discordapp.net/attachments/284660272445259778/673434317795491841/febs-2.jpg
+star explore™
+
+
+[24-Jun-22 08:44 PM] Biotic#5170
+star random
+
+
+[24-Jun-22 08:44 PM] Starboard#0987
+⭐ **5** | #art
+
+{Embed}
+Carlum
+the guy
+​
+**[IMG\_0797.jpg](https://cdn.discordapp.com/attachments/628339390053351425/989945419536662548/IMG_0797.jpg "thank you for everything")**
+https://media.discordapp.net/attachments/628339390053351425/989945419108851772/IMG_0800.jpg
+star explore™
+
+
+[24-Jun-22 08:44 PM] Biotic#5170
+hello heisenberg
+
+
+[24-Jun-22 08:47 PM] Jacki#4312
+say my name
+
+
+[24-Jun-22 09:00 PM] Salt#5507
+my name
+
+
+[24-Jun-22 09:04 PM] Jacki#4312
+thanks
+
+
+[24-Jun-22 09:06 PM] sincererimp#1473
+youre welcome
+
+
+[25-Jun-22 12:59 PM] Ieatplastic_420#8470
+star random
+
+
+[25-Jun-22 12:59 PM] Starboard#0987
+🌟 **14** | #screenshot-and-renders
+
+{Embed}
+AlikDesu
+https://media.discordapp.net/attachments/818926817825128488/989217571851079760/poster-22-06-22_41-14-88.jpg
+star explore™
+
+
+[25-Jun-22 12:59 PM] Ieatplastic_420#8470
+star random
+
+
+[25-Jun-22 12:59 PM] Starboard#0987
+
+{Embed}
+Cooldown
+You're using this command too frequently! Please wait 5ms before using it again.
+The cooldown for this command is **5s**. 
+While you wait, why not **[become a patron](https://patreon.com/TheNoob27)** and unlock some sweet donator only features, and a donator only role in our discord server or check out Starboard's **[Github page](https://github.com/TheNoob27/starboard-issues/issues)** where you can post bugs/suggestions instead of using the commands!
+
+
+[25-Jun-22 12:59 PM] Ieatplastic_420#8470
+star random
+
+
+[25-Jun-22 12:59 PM] Starboard#0987
+✨ **30** | #🌟-general-🌟
+
+{Embed}
+Nooga
+Bon, ça y est, c'est un clap de fin pour moi ^^. Merci tout le monde pour cette année incroyable ! J'vais pas mentir ça fait un peu mal de partir mais j'ai appris tellement de choses avec vous c'était juste super !
+Les projets de cette année sont fous et j'ai hâte de voir ce que vous ferez l'année pro (je me débrouillerai pour être là aux soutenance M2)
+Restez incroyaux :')
+star explore™
+
+
+[25-Jun-22 01:00 PM] Ieatplastic_420#8470
+eww
+
+
+[25-Jun-22 01:00 PM] Ieatplastic_420#8470
+star random
+
+
+[25-Jun-22 01:00 PM] Starboard#0987
+⭐ **6** | #〉・💬・general
+
+{Embed}
+33DTVic
+BRO WE FINNA MAKE A FAMILY SUICIDE☠️
+star explore™
+
+
+[25-Jun-22 01:00 PM] Ieatplastic_420#8470
+star random
+
+
+[25-Jun-22 01:00 PM] Starboard#0987
+
+{Embed}
+Cooldown
+You're using this command too frequently! Please wait 2.3s before using it again.
+The cooldown for this command is **5s**. 
+While you wait, why not **[vote for the bot](https://top.gg/bot/655390915325591629/vote)** to have this cooldown sawed in half or **[join the support server](https://discord.gg/rZgxfbH)** and have fun talking to us, participate in polls which heavily determine what gets added to the bot, possible giveaways and much much more or **[become a patron](https://patreon.com/TheNoob27)** and unlock some sweet donator only features, and a donator only role in our discord server!
+
+
+[25-Jun-22 01:00 PM] Ieatplastic_420#8470
+star random
+
+
+[25-Jun-22 01:00 PM] Ieatplastic_420#8470
+star random
+
+
+[25-Jun-22 01:00 PM] Starboard#0987
+🌟 **11** | #horrible-polls
+
+{Embed}
+Googly eyes on a flaccid penis
+Should i be demoding max and miggy?
+
+:funny: for yes
+:sofunny: for no
+star explore™
+
+
+[25-Jun-22 01:00 PM] Ieatplastic_420#8470
+star random
+
+
+[25-Jun-22 01:00 PM] Starboard#0987
+
+{Embed}
+Cooldown
+You're using this command too frequently! Please wait 1.7s before using it again.
+The cooldown for this command is **5s**. 
+While you wait, why not **[vote for the bot](https://top.gg/bot/655390915325591629/vote)** to have this cooldown sawed in half or **[become a patron](https://patreon.com/TheNoob27)** and unlock some sweet donator only features, and a donator only role in our discord server or **[follow my twitter](https://twitter.com/DaNoob27)** for absolutely no reason at all!
+
+
+[25-Jun-22 01:00 PM] Ieatplastic_420#8470
+star random
+
+
+[25-Jun-22 01:00 PM] Ieatplastic_420#8470
+star random
+
+
+[25-Jun-22 01:00 PM] Ieatplastic_420#8470
+star random
+
+
+[25-Jun-22 01:00 PM] Starboard#0987
+⭐ **8** | #general-chat
+
+{Embed}
+Burrato
+Iqbajjswmsiis
+star explore™
+
+
+[25-Jun-22 01:00 PM] Ieatplastic_420#8470
+star random
+
+
+[25-Jun-22 01:00 PM] Starboard#0987
+
+{Embed}
+Cooldown
+You're using this command too frequently! Please wait 4.5s before using it again.
+The cooldown for this command is **5s**. 
+While you wait, why not check out Starboard's **[Github page](https://github.com/TheNoob27/starboard-issues/issues)** where you can post bugs/suggestions instead of using the commands or **[follow my twitter](https://twitter.com/DaNoob27)** for absolutely no reason at all!
+
+
+[25-Jun-22 01:00 PM] Ieatplastic_420#8470
+star random
+
+
+[25-Jun-22 01:00 PM] Ieatplastic_420#8470
+star random
+
+
+[25-Jun-22 01:00 PM] Ieatplastic_420#8470
+star random
+
+
+[25-Jun-22 01:00 PM] Starboard#0987
+🌟 **18** | #vtubers
+
+{Embed}
+Alicein Kaneshiro
+https://media.discordapp.net/attachments/929748489003470858/990151077611581460/D43E389B-89F0-4589-9FCC-8E47E46B6CB0.jpg
+star explore™
+
+
+[25-Jun-22 02:34 PM] Ieatplastic_420#8470
+c!suggest
+
+{Attachments}
+https://cdn.discordapp.com/attachments/988182794272395315/990308989264879626/unknown.png
+
+
+[25-Jun-22 02:34 PM] Carl-bot#1536
+You need to actually suggest something for this command to work.
+
+
+[25-Jun-22 11:50 PM] Drewand#5174
+:tgfsurvey1::tgfsurvey2:
+
+
+[26-Jun-22 01:32 PM] emerald#2123
+c!rm list
+
+
+[26-Jun-22 01:32 PM] Carl-bot#1536
+```ID: 42441046 Date: 2022-06-28 00:42 Message: hear ruans explanation
+```
+
+
+[26-Jun-22 01:58 PM] worm#5397
+only 2 more days
+
+
+[26-Jun-22 06:41 PM] Hapho#3077
+c!avatar @HeyItsSirius \
+
+
+[26-Jun-22 06:41 PM] Carl-bot#1536
+
+{Embed}
+Avatar for HeyItsSirius#2099
+Link as
+[png](https://cdn.discordapp.com/avatars/844699540635648030/c261a86600880bf569c3c9af54732812.png) | [jpg](https://cdn.discordapp.com/avatars/844699540635648030/c261a86600880bf569c3c9af54732812.jpg) | [webp](https://cdn.discordapp.com/avatars/844699540635648030/c261a86600880bf569c3c9af54732812.png?size=1024)
+https://images-ext-1.discordapp.net/external/TiAkOt4MlvdmU9Knb_zOmZyl-n3OHeGDXxx5oHAxyn0/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/844699540635648030/c261a86600880bf569c3c9af54732812.png
+
+
+[27-Jun-22 02:33 PM] Biotic#5170
+star stats
+
+
+[27-Jun-22 02:33 PM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 45
+**Times On Starboard**: 1
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 19
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 7
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 7
+**Most Stars Earned In**: #deleted-channel (59)
+**Most Stars On A Message**: **[23](https://discord.com/channels/926212597513093202/934210848946278401/982093311261159425)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 2%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 36.84%
+Worldwide Stats
+**Starred Messages**: 19
+**Total Stars**: 141
+**Average Stars Per Message**: 7
+**% Of Starred Messages By You**: 0.0018%
+**Most Stars On A Message**: 23
+
+
+[27-Jun-22 02:33 PM] Biotic#5170
+star top
+
+
+[27-Jun-22 02:33 PM] Starboard#0987
+
+{Embed}
+Leaderboard - Total Stars
+🏅 1:  @Solar Awe - Stars: 227 ✨
+🥈 2:  @haha yes - Stars: 149 ✨
+🥉 3:  @summers - Stars: 121 ✨
+
+🎖 4:  @Ieatplastic_420 - Stars: 87 ✨
+🎖 5:  @Unknown - Stars: 77 ✨
+🎖 6:  @dragonam - Stars: 77 ✨
+🎖 7:  @eeeееееееeeeeeeeeeeeeeeeeeeeee - Stars: 73 ✨
+🎖 8:  @Salt - Stars: 73 ✨
+🎖 9:  @Hapho - Stars: 71 ✨
+🎖 10:  @5space - Stars: 71 ✨
+Your Place: #16 | Page 1/9
+
+
+[27-Jun-22 02:33 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 02:33 PM] Starboard#0987
+✨ **30** | #art
+
+{Embed}
+Yulan
+Happy gay month cause yk u gay n stuff!!
+​
+**[Screenshot\_20220623\_131514\_edit\_569754498968800.jpg](https://cdn.discordapp.com/attachments/739645614371111048/989517396517736488/Screenshot_20220623_131514_edit_569754498968800.jpg "please click this")**
+https://media.discordapp.net/attachments/739645614371111048/989517396203167794/Untitled1_20220623150345.png
+star explore™
+
+
+[27-Jun-22 02:33 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 02:33 PM] Starboard#0987
+⭐ **7** | #media
+
+{Embed}
+Luca_Midi
+7 Blocked Messages
+https://media.discordapp.net/attachments/880133646860824606/990426534781276190/IMG_8363.png
+star explore™
+
+
+[27-Jun-22 02:33 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 02:33 PM] Starboard#0987
+⭐ **9** | #art
+
+{Embed}
+Kaz
+https://media.discordapp.net/attachments/628339390053351425/990510272106094642/unknown.png
+star explore™
+
+
+[27-Jun-22 02:33 PM] Biotic#5170
+hello heisenberg
+
+
+[27-Jun-22 05:20 PM] TecnaGamer#7772
+!dog
+
+
+[27-Jun-22 05:20 PM] TecnaGamer#7772
+?dog
+
+
+[27-Jun-22 05:20 PM] Dyno#3861
+Found one!
+
+{Embed}
+https://images.dog.ceo/breeds/ovcharka-caucasian/IMG_20190811_105232.jpg
+🐶 Woof!
+https://images-ext-2.discordapp.net/external/7ZBwoTv--l5WuXLEm_ZiqnFgbYSesqemKneT5_hsJAU/https/images.dog.ceo/breeds/ovcharka-caucasian/IMG_20190811_105232.jpg
+
+
+[27-Jun-22 05:32 PM] Hapho#3077
+c!serverinfo
+
+
+[27-Jun-22 05:32 PM] Carl-bot#1536
+
+{Embed}
+Info for TGForever
+Owner
+ablazingeboy#7375
+Features
+✅ Invite Splash
+✅ Vanity Invite
+✅ News Channels
+✅ Animated Icon
+✅ Banner
+Boosts
+Level 3 (maxed)
+Carlbot premium
+[❌ click me](https://www.patreon.com/carlbot)
+Channels
+:discord_text_channel: 47 (24 locked)
+:discord_voice_channel: 8 (3 locked)
+Info
+✅ Scanning Images
+Verification level: medium
+Voice region: deprecated
+[Icon link](https://cdn.discordapp.com/icons/926212597513093202/a_53b5e4576d97842733178a72c0c11001.png)
+Prefixes
+@Carl-bot 
+c?
+c!
+Members
+Total: 554
+Humans: 547
+Bots: 7
+Roles
+38 roles
+https://images-ext-1.discordapp.net/external/uXwVbS4dUvQd0Cy2fgOUBd3hoXRMQJxAcmjdjvGChIo/%3Fsize%3D1024/https/cdn.discordapp.com/icons/926212597513093202/a_53b5e4576d97842733178a72c0c11001.gif
+ID: 926212597513093202, Created
+
+
+[27-Jun-22 06:08 PM] emerald#2123
+@Hapho why not
+
+
+[27-Jun-22 06:08 PM] Hapho#3077
+no
+
+
+[27-Jun-22 06:08 PM] emerald#2123
+eswatini is a great name
+
+
+[27-Jun-22 06:09 PM] emerald#2123
+eswaTGF
+
+
+[27-Jun-22 06:14 PM] haha yes#6248
+?emotes
+
+
+[27-Jun-22 06:14 PM] Dyno#3861
+
+{Embed}
+158 Statics, 9 Animated (167 total)
+:prayge: :okaychamp: :omegawheeze: :swaghappy: :swagok: :swag: :sadge: :thonk: :swagthumbsdown: :whatchamp: :swagcool: :swagwhat: :empty: :swaggun: :shrug: :swaglove: :swagsick: :swagcringe: :swagshades: :swagarab: :swagthumbsup: :harold: :wetroaches: :swagevil: :realshit: :letroll: :pogu: :cubedroaches: :1984: :sbma: :cheemsmile: :catroll: :boat: :civ: :swaglaser:
+
+{Embed}
+:WAAAH: :noot: :true: :LFG: :PaulDrink: :troll: :plasticjak: :wheeze: :agony: :epic: :epicgamer: :sadcat: :crushed: :bruh: :cringe: :yessir: :minecraft: :holdup: :KEKW: :trollge: :dorime: :chadyes: :chad: :poggers: :NOOO: :postrealizationdark: :swagempty: :swagcry: :swaguwu: :swagsad: :swagowo: :swagHD: :swg: :swagstare: :swagvoid: :swagabyss:
+
+{Embed}
+:headache: :monkaShook: :monkaSuper: :monkaS: :pepecry: :wojakhappy: :trolldamn: :shut: :trollsmirk: :cerealeat: :cerealspit: :facepalm: :postrealization2: :real: :fake: :yes: :no: :this: :prerealization: :postrealization: :woodylaugh: :what: :pain: :200iq: :thisisfine: :trl: :swagrage: :swagfestive: :wat: :boog: :easy: :deepslate: :famskiisbrow: :swagsus: :swagthink:
+
+
+[27-Jun-22 06:14 PM] Dyno#3861
+
+{Embed}
+:cringe: :laughedat: :discocat: :nasty: :ducksob: :weirdchamp: :nowthis: :Kappa: :swagdeath: :serverNOW: :swagony: :forever: :tg: :uwu: :gigachad: :imstuff: :reallybro: :omg: :titswag: :stuff2: :swagma: :wholesome: :how: :upvote: :downvote: :sidevote: :sigmaspin: :sigmaspinfast: :Frogg: :swagpray: :swagblind: :swagbonk: :swagindian: :bare: :amgs: :terraria:
+
+{Embed}
+:submadab: :woozycat: :gasp: :pepelove: :swageyes: :smilecat: :nobitches: :TecnaThink: :nosigmas: :TGFplace: :thumbs: :same: :decnerd: :radroll: :swagman: :TecnaDeafult: :youslur: :catstare: :dryroaches: :easyroll: :swagbius: :swagslay: :surprisedpikachu: :tgfsurvey2: :tgfsurvey1:
+
+
+[27-Jun-22 06:14 PM] haha yes#6248
+nice wall of text bro
+
+
+[27-Jun-22 06:22 PM] sincererimp#1473
+documentary
+
+
+[27-Jun-22 06:22 PM] sincererimp#1473
+@haha yes
+
+
+[27-Jun-22 06:22 PM] haha yes#0921
+very nice
+
+
+[27-Jun-22 07:50 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 07:50 PM] Starboard#0987
+💫 **27** | #art-hall-of-fame
+
+{Embed}
+Starboard 🤖
+🌟 **18**  | #deleted-channel
+Starboard - Snork#2000
+Price for the raffle request raffle <3 Thank you everyone who joined and did the requirements!
+​
+**[Click to jump to message!](https://discordapp.com/channels/284447205358829570/284660272445259778/681940621782548555)**
+​
+MessageID: 681940621782548555
+https://media.discordapp.net/attachments/284660272445259778/681940612811063318/TigerRequest.png
+star explore™
+
+
+[27-Jun-22 07:50 PM] Biotic#5170
+🤨
+
+
+[27-Jun-22 07:55 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 07:55 PM] Starboard#0987
+💫 **21** | #art-hall-of-fame
+
+{Embed}
+Starboard 🤖
+🌟 **15**  | #deleted-channel
+(Saizon#9624)
+Old commission I drew ^^ also I'm new here hi everyone
+​
+**[Click to jump to message!](https://discordapp.com/channels/284447205358829570/284660272445259778/702490266082476122)**
+​
+MessageID: 702490266082476122
+https://media.discordapp.net/attachments/284660272445259778/702490260466172015/Hactima_Commission.jpg
+star explore™
+
+
+[27-Jun-22 07:55 PM] Biotic#5170
+🤨🤨
+
+
+[27-Jun-22 07:57 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 07:57 PM] Starboard#0987
+🌟 **14** | #general
+
+{Embed}
+Lollam
+ⓘ This user is registered on the Discord Hate and Terror watchlist. For more information on the new safety guidelines visit <https://www.discord.com/safety>
+star explore™
+
+
+[27-Jun-22 07:57 PM] Biotic#5170
+Average furry
+
+
+[27-Jun-22 07:59 PM] Biotic#5170
+ⓘ This user is registered on the Discord Hate and Terror watchlist. For more information on the new safety guidelines visit https://www.discord.com/safety
+
+{Embed}
+https://www.discord.com/safety
+Safety Principles and Policies | Discord
+We're determined to ensure that Discord is a welcoming place for you. Learn more about our safety principles.
+https://images-ext-1.discordapp.net/external/fg8_EVaSMKATR_JrExd6TAk2oAl6QKvAAh7psPg10ns/https/discord.com/assets/9e542640f7905f296f22eac5e821a64f.png
+
+
+[27-Jun-22 08:26 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:26 PM] Starboard#0987
+🌟 **13** | #qotd
+
+{Embed}
+fabledworld
+damn, now this server can admit to wishing they were hitler
+star explore™
+
+
+[27-Jun-22 08:26 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:26 PM] Starboard#0987
+⭐ **9** | #「-🎨╎artes
+
+{Embed}
+Azure Draftman
+https://media.discordapp.net/attachments/825171745353891841/990641201302614016/192_sin_titulo_20220626111035.jpg
+star explore™
+
+
+[27-Jun-22 08:27 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:27 PM] Starboard#0987
+🌟 **10** | #games
+
+{Embed}
+Slavanomics
+https://media.discordapp.net/attachments/330403177750986752/732705854758846494/unknown.png
+star explore™
+
+
+[27-Jun-22 08:27 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:27 PM] Starboard#0987
+⭐ **6** | #〉casual
+
+{Embed}
+jasmine
+https://media.discordapp.net/attachments/953039331101138944/991060009372749844/IMG_9962.jpg
+star explore™
+
+
+[27-Jun-22 08:28 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:28 PM] Starboard#0987
+🌟 **17** | #art-hall-of-fame
+
+{Embed}
+Starboard 🤖
+⭐ **8**  | #deleted-channel
+Starboard - Kiveiru#5939
+Mhmm shower
+​
+**[Click to jump to message!](https://discordapp.com/channels/284447205358829570/284660272445259778/677422929511841792)**
+​
+MessageID: 677422929511841792
+https://media.discordapp.net/attachments/284660272445259778/677422924629803038/image0.jpg
+star explore™
+
+
+[27-Jun-22 08:33 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:33 PM] Starboard#0987
+⭐ **9** | #off-topic
+
+{Embed}
+creature
+hey guys check out my new warriors oc
+https://media.discordapp.net/attachments/582731790339407883/991056255382610000/RDT_20220627_1152055514062529907296876.jpg
+star explore™
+
+
+[27-Jun-22 08:34 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:34 PM] Starboard#0987
+⭐ **6** | #general
+
+{Embed}
+Jesus, your daddy
+@Unknown I'm sending pp pic in your dm
+star explore™
+
+
+[27-Jun-22 08:34 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:34 PM] Starboard#0987
+⭐ **8** | #anime_manga_vtubers
+
+{Embed}
+Luk
+https://media.discordapp.net/attachments/744598488398037092/911106700898107412/unknown-160.png
+star explore™
+
+
+[27-Jun-22 08:34 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:34 PM] Starboard#0987
+⭐ **6** | #general
+
+{Embed}
+Corvo
+Please read this carefully: A fair warning, Look out for a Discord user by the name of "Big Boss" with the tag #1915 (changes tags regularly). He is going around sending friend requests to random Discord users, and those who accept his friend requests will have their accounts get SWATTed and their groups exposed with the members inside it becoming a victim as well. Spread the word and send this to as many discord servers as you can. If you see this user, DO NOT accept his friend request and immediately block him. Our team is currently working very hard to remove this user from our database, please stay safe.
+star explore™
+
+
+[27-Jun-22 08:35 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:35 PM] Starboard#0987
+🌟 **10** | #memes
+
+{Embed}
+Origami Jonathan
+https://cdn.discordapp.com/attachments/223499683446652928/987059284711981086/trim.9AA00E6D-EE4E-46A3-BBFC-160A5AFF8CBC.mov
+​
+**[Video 1](https://cdn.discordapp.com/attachments/223499683446652928/987059284711981086/trim.9AA00E6D-EE4E-46A3-BBFC-160A5AFF8CBC.mov "starboard bot™")**
+star explore™
+
+
+[27-Jun-22 08:35 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:35 PM] Starboard#0987
+💫 **20** | #own-art
+
+{Embed}
+id
+Com!
+https://media.discordapp.net/attachments/284660272445259778/990788153520582686/IMG_0524.png
+star explore™
+
+
+[27-Jun-22 08:36 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:36 PM] Starboard#0987
+⭐ **5** | #games
+
+{Embed}
+Luk
+SHNE be like: "Omg she so pretty 😍"
+https://media.discordapp.net/attachments/330403177750986752/958087688907526184/yhtjfwtfv3q81.png
+star explore™
+
+
+[27-Jun-22 08:36 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:36 PM] Starboard#0987
+⭐ **5** | #regulars
+
+{Embed}
+Mr Cheese
+discord mde mae retard
+star explore™
+
+
+[27-Jun-22 08:36 PM] Tangmar#3209
+star random
+
+
+[27-Jun-22 08:36 PM] Starboard#0987
+⭐ **8** | #🎨│galería-de-arte
+
+{Embed}
+Manitas
+Lo subo otravez porque creo que lo borraron
+https://media.discordapp.net/attachments/973391173274185769/990836164531478619/9_sin_titulo_20220626215826.png
+star explore™
+
+
+[27-Jun-22 08:36 PM] Tangmar#3209
+imagine if someone star randoms in their server and gets a tgf post and is so confused
+
+
+[27-Jun-22 08:37 PM] Tangmar#3209
+star random
+
+
+[27-Jun-22 08:37 PM] Starboard#0987
+⭐ **8** | #primary-lounge
+
+{Embed}
+~ вσσѕƒєя {🫖🍵} ~ 🤖
+pov you're a discord mod and a discord kitten at the same time
+star explore™
+
+
+[27-Jun-22 08:37 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:37 PM] Starboard#0987
+⭐ **6** | #games
+
+{Embed}
+NNoris
+🙏
+star explore™
+
+
+[27-Jun-22 08:37 PM] Tangmar#3209
+🙏
+
+
+[27-Jun-22 08:37 PM] Biotic#5170
+🙏
+
+
+[27-Jun-22 08:38 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:38 PM] Starboard#0987
+⭐ **9** | #moon-base-alpha
+
+{Embed}
+Ace in space
+laughs in stabs people for a living
+star explore™
+
+
+[27-Jun-22 08:38 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:38 PM] Starboard#0987
+⭐ **6** | #regulars
+
+{Embed}
+Powish
+https://twitter.com/shrekframe/status/1448906502832541696
+(every shrek frame in order (@shrekframe))
+Shrek (2001)
+
+Frame 51435 of 129575
+Retweets
+2680
+Likes
+20638
+https://images-ext-2.discordapp.net/external/qo9_P5_qf2N3yBW4ErPs6W-b8nuO4ploMQLGHjWJ-oc/https/pbs.twimg.com/media/FBuMyTfX0AcW7_6.jpg%3Alarge
+star explore™
+
+
+[27-Jun-22 08:39 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:39 PM] Starboard#0987
+🌟 **10** | #general
+
+{Embed}
+Luk
+Please read this carefully: A fair warning, Look out for a Discord user by the name of "Big Boss" with the tag #1915 (changes tags regularly). He is going around sending friend requests to random Discord users, and those who accept his friend requests will have their accounts get SWATTed and their groups exposed with the members inside it becoming a victim as well. Spread the word and send this to as many discord servers as you can. If you see this user, DO NOT accept his friend request and immediately block him. Our team is currently working very hard to remove this user from our database, please stay safe.
+star explore™
+
+
+[27-Jun-22 08:39 PM] Tangmar#3209
+:troll:
+
+
+[27-Jun-22 08:39 PM] Biotic#5170
+Again!
+
+
+[27-Jun-22 08:39 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:39 PM] Starboard#0987
+⭐ **8** | #regulars
+
+{Embed}
+Powish
+i will kill myself
+star explore™
+
+
+[27-Jun-22 08:39 PM] Tangmar#3209
+ok
+
+
+[27-Jun-22 08:39 PM] Biotic#5170
+Yeah
+
+
+[27-Jun-22 08:39 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:39 PM] Starboard#0987
+⭐ **7** | #regulars
+
+{Embed}
+shogoz ꧁꧂ 🤖
+:AMOGUS:
+star explore™
+
+
+[27-Jun-22 08:40 PM] Tangmar#3209
+hey thats the same guy as this
+
+
+[27-Jun-22 08:40 PM] Biotic#5170
+Oh yeah it is
+
+
+[27-Jun-22 08:40 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:40 PM] Starboard#0987
+⭐ **7** | #regulars
+
+{Embed}
+Tolis Kang
+Hello
+star explore™
+
+
+[27-Jun-22 08:40 PM] Biotic#5170
+Hello
+
+
+[27-Jun-22 08:41 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:41 PM] Starboard#0987
+⭐ **9** | #general
+
+{Embed}
+Malygos
+Listen up, death_pit has been locked from publics view. We are currently holding a staff meeting around some things. That's all I can say
+star explore™
+
+
+[27-Jun-22 08:41 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:41 PM] Starboard#0987
+⭐ **8** | #general
+
+{Embed}
+SnarkySoundsystem
+!levelup20
+star explore™
+
+
+[27-Jun-22 08:41 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:41 PM] Starboard#0987
+⭐ **7** | #games
+
+{Embed}
+NNoris
+https://gfycat.com/unluckyadmirableearthworm
+​
+**[first person cj](https://giant.gfycat.com/UnluckyAdmirableEarthworm.mp4 ":)")**
+star explore™
+
+
+[27-Jun-22 08:41 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:41 PM] Starboard#0987
+
+{Embed}
+Cooldown
+You're using this command too frequently! Please wait 142ms before using it again.
+The cooldown for this command is **5s**. 
+While you wait, why not **[join the support server](https://discord.gg/rZgxfbH)** and have fun talking to us, participate in polls which heavily determine what gets added to the bot, possible giveaways and much much more or check out Starboard's **[Github page](https://github.com/TheNoob27/starboard-issues/issues)** where you can post bugs/suggestions instead of using the commands or **[become a patron](https://patreon.com/TheNoob27)** and unlock some sweet donator only features, and a donator only role in our discord server!
+
+
+[27-Jun-22 08:41 PM] Biotic#5170
+Shut up!!!!!
+
+
+[27-Jun-22 08:41 PM] Biotic#5170
+star random
+
+
+[27-Jun-22 08:41 PM] Starboard#0987
+⭐ **7** | #regulars
+
+{Embed}
+Luk
+We need to bring BiB back
+star explore™
+
+
+[27-Jun-22 08:41 PM] Biotic#5170
+It’s this guy again
+
+
+[27-Jun-22 08:44 PM] sincererimp#1473
+big boss
+
+
+[27-Jun-22 09:26 PM] Salt#5507
+star random
+
+
+[27-Jun-22 09:26 PM] Starboard#0987
+⭐ **6** | #regulars
+
+{Embed}
+Prince90000
+my cock is hard
+star explore™
+
+
+[27-Jun-22 09:27 PM] Salt#5507
+funniest and least weird picrew pfp
+
+
+[27-Jun-22 09:27 PM] Salt#5507
+star random
+
+
+[27-Jun-22 09:27 PM] Starboard#0987
+⭐ **5** | #general
+
+{Embed}
+Cockatoo12
+I saved female alabaster
+https://media.discordapp.net/attachments/855260766268817438/985289661326950472/unknown.png
+star explore™
+
+
+[28-Jun-22 05:05 AM] Hapho#3077
+star random
+
+
+[28-Jun-22 05:05 AM] Starboard#0987
+🌟 **10** | #games
+
+{Embed}
+Luk
+I bought microtransactions to skip all the content
+star explore™
+
+
+[28-Jun-22 05:05 AM] Hapho#3077
+star random
+
+
+[28-Jun-22 05:05 AM] Starboard#0987
+⭐ **8** | #games
+
+{Embed}
+EchoBlendz
+emubii actual down syndrome adult
+star explore™
+
+
+[28-Jun-22 05:05 AM] Hapho#3077
+star random
+
+
+[28-Jun-22 05:05 AM] Starboard#0987
+
+{Embed}
+Cooldown
+You're using this command too frequently! Please wait 2.9s before using it again.
+The cooldown for this command is **5s**. 
+While you wait, why not **[become a patron](https://patreon.com/TheNoob27)** and unlock some sweet donator only features, and a donator only role in our discord server!
+
+
+[28-Jun-22 05:05 AM] Hapho#3077
+star random
+
+
+[28-Jun-22 05:05 AM] Hapho#3077
+star random
+
+
+[28-Jun-22 05:05 AM] Starboard#0987
+⭐ **8** | #games
+
+{Embed}
+root
+Eww
+star explore™
+
+
+[28-Jun-22 05:05 AM] Hapho#3077
+eww
+
+
+[28-Jun-22 05:05 AM] Hapho#3077
+star random
+
+
+[28-Jun-22 05:05 AM] Starboard#0987
+⭐ **5** | #staff
+
+{Embed}
+Megoblyn
+Pocco es gay
+star explore™
+
+
+[28-Jun-22 05:05 AM] Hapho#3077
+italian?
+
+
+[28-Jun-22 05:05 AM] Hapho#3077
+star random
+
+
+[28-Jun-22 05:05 AM] Starboard#0987
+⭐ **5** | #regulars
+
+{Embed}
+EchoBlendz
+https://tenor.com/view/nigga-twerk-twerk-get-real-gif-22738378
+​
+**[GIF Video 1](https://media.tenor.com/b-nOHaTtTmgAAAPo/nigga-twerk-twerk.mp4?c=VjFfZGlzY29yZA "star")**
+star explore™
+
+
+[28-Jun-22 12:30 PM] Salt#5507
+star random
+
+
+[28-Jun-22 12:30 PM] Starboard#0987
+⭐ **6** | #anime_manga_vtubers
+
+{Embed}
+YuriOta
+still no dm about the amateur porn? damn bro youre full of shit
+star explore™
+
+
+[28-Jun-22 12:30 PM] Salt#5507
+star random
+
+
+[28-Jun-22 12:30 PM] Starboard#0987
+
+{Embed}
+Cooldown
+You're using this command too frequently! Please wait 415ms before using it again.
+The cooldown for this command is **5s**. 
+While you wait, why not **[join the support server](https://discord.gg/rZgxfbH)** and have fun talking to us, participate in polls which heavily determine what gets added to the bot, possible giveaways and much much more or **[vote for the bot](https://top.gg/bot/655390915325591629/vote)** to have this cooldown sawed in half!
+
+
+[28-Jun-22 12:30 PM] Salt#5507
+star random
+
+
+[28-Jun-22 12:30 PM] Starboard#0987
+⭐ **7** | #games
+
+{Embed}
+Luk
+https://gfycat.com/unluckyadmirableearthworm
+​
+**[first person cj](https://giant.gfycat.com/UnluckyAdmirableEarthworm.mp4 "[insert motivational message here]")**
+star explore™
+
+
+[28-Jun-22 12:30 PM] Salt#5507
+star random
+
+
+[28-Jun-22 12:30 PM] Starboard#0987
+
+{Embed}
+Cooldown
+You're using this command too frequently! Please wait 517ms before using it again.
+The cooldown for this command is **5s**. 
+While you wait, why not **[become a patron](https://patreon.com/TheNoob27)** and unlock some sweet donator only features, and a donator only role in our discord server or **[vote for the bot](https://top.gg/bot/655390915325591629/vote)** to have this cooldown sawed in half!
+
+
+[28-Jun-22 12:30 PM] Salt#5507
+star random
+
+
+[28-Jun-22 12:30 PM] Starboard#0987
+⭐ **6** | #regulars
+
+{Embed}
+ManiacKnight
+It's like a mouse trap but for chicken
+star explore™
+
+
+[28-Jun-22 12:30 PM] Salt#5507
+star random
+
+
+[28-Jun-22 12:30 PM] Starboard#0987
+⭐ **9** | #general
+
+{Embed}
+m77
+I'm racist
+star explore™
+
+
+[28-Jun-22 12:30 PM] Salt#5507
+star random
+
+
+[28-Jun-22 12:30 PM] Starboard#0987
+
+{Embed}
+Cooldown
+You're using this command too frequently! Please wait 509ms before using it again.
+The cooldown for this command is **5s**. 
+While you wait, why not **[follow my twitter](https://twitter.com/DaNoob27)** for absolutely no reason at all or check out Starboard's **[Github page](https://github.com/TheNoob27/starboard-issues/issues)** where you can post bugs/suggestions instead of using the commands or **[vote for the bot](https://top.gg/bot/655390915325591629/vote)** to have this cooldown sawed in half!
+
+
+[28-Jun-22 12:31 PM] Salt#5507
+star leaderboard
+
+
+[28-Jun-22 12:31 PM] Starboard#0987
+
+{Embed}
+Leaderboard - Total Stars
+🏅 1:  @Solar Awe - Stars: 228 ✨
+🥈 2:  @haha yes - Stars: 157 ✨
+🥉 3:  @summers - Stars: 122 ✨
+**
+🎖 4:  @Salt - Stars: 104 ✨**
+🎖 5:  @5space - Stars: 91 ✨
+🎖 6:  @Ieatplastic_420 - Stars: 90 ✨
+🎖 7:  @Unknown - Stars: 77 ✨
+🎖 8:  @dragonam - Stars: 77 ✨
+🎖 9:  @Hapho - Stars: 76 ✨
+🎖 10:  @eeeееееееeeeeeeeeeeeeeeeeeeeee - Stars: 73 ✨
+Your Place: #4 | Page 1/9
+
+
+[28-Jun-22 07:46 PM] summers#0577
+WHAT HOW AM I NOT THERE
+
+
+[28-Jun-22 07:46 PM] summers#0577
+wait nvm I'm 3
+
+
+[28-Jun-22 07:47 PM] dragonam#8155
+star leaderboard
+
+
+[28-Jun-22 07:47 PM] Starboard#0987
+
+{Embed}
+Leaderboard - Total Stars
+🏅 1:  @Solar Awe - Stars: 228 ✨
+🥈 2:  @haha yes - Stars: 164 ✨
+🥉 3:  @summers - Stars: 122 ✨
+
+🎖 4:  @Salt - Stars: 110 ✨
+🎖 5:  @Ieatplastic_420 - Stars: 95 ✨
+🎖 6:  @5space - Stars: 92 ✨
+🎖 7:  @Unknown - Stars: 77 ✨
+**🎖 8:  @dragonam - Stars: 77 ✨**
+🎖 9:  @Hapho - Stars: 77 ✨
+🎖 10:  @eeeееееееeeeeeeeeeeeeeeeeeeeee - Stars: 73 ✨
+Your Place: #8 | Page 1/9
+
+
+[28-Jun-22 07:47 PM] dragonam#8155
+star
+
+
+[28-Jun-22 07:47 PM] dragonam#8155
+star leadebroard
+
+
+[28-Jun-22 08:24 PM] sincererimp#1473
+star stats
+
+
+[28-Jun-22 08:24 PM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 21
+**Times On Starboard**: 1
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 6
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 3
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 14
+**Most Stars Earned In**: #deleted-channel (64)
+**Most Stars On A Message**: **[36](https://discord.com/channels/926212597513093202/926212598041546784/944583269213679636)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 1%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 50%
+Worldwide Stats
+**Starred Messages**: 6
+**Total Stars**: 85
+**Average Stars Per Message**: 14
+**% Of Starred Messages By You**: 0.0006%
+**Most Stars On A Message**: 36
+
+
+[28-Jun-22 09:05 PM] HeyItsSirius#2099
+star stats
+
+
+[28-Jun-22 09:05 PM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 20
+**Times On Starboard**: 1
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 3
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 1
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 7
+**Most Stars Earned In**: #general (20)
+**Most Stars On A Message**: **[13](https://discord.com/channels/926212597513093202/988203148227268648/988212442008023040)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 0%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 33.33%
+Worldwide Stats
+**Starred Messages**: 3
+**Total Stars**: 20
+**Average Stars Per Message**: 7
+**% Of Starred Messages By You**: 0.0003%
+**Most Stars On A Message**: 13
+
+
+[28-Jun-22 09:05 PM] HeyItsSirius#2099
+hm
+
+
+[28-Jun-22 09:05 PM] HeyItsSirius#2099
+star random
+
+
+[28-Jun-22 09:05 PM] Starboard#0987
+⭐ **7** | #irl_photography
+
+{Embed}
+steppebandit
+https://cdn.discordapp.com/attachments/602935125940109342/893577147975876628/FAossLyXoAA-Mnc.png
+https://media.discordapp.net/attachments/602935125940109342/893577147975876628/FAossLyXoAA-Mnc.png
+star explore™
+
+
+[28-Jun-22 09:06 PM] HeyItsSirius#2099
+star random
+
+
+[28-Jun-22 09:06 PM] Starboard#0987
+⭐ **6** | #general
+
+{Embed}
+mo.
+Fuck u calling me a leech for nigga?
+Replying to shine
+I swear every leech that comes here nowadays has either iq problems or is schizo
+star explore™
+
+
+[28-Jun-22 09:06 PM] HeyItsSirius#2099
+Wait this is any star anywhere?
+
+
+[28-Jun-22 09:06 PM] HeyItsSirius#2099
+star random
+
+
+[28-Jun-22 09:06 PM] Starboard#0987
+⭐ **6** | #movie_tv_discussion
+
+{Embed}
+Mr Cheese
+My dad went to get milk
+star explore™
+
+
+[28-Jun-22 09:06 PM] HeyItsSirius#2099
+star leaderboard
+
+
+[28-Jun-22 09:06 PM] Starboard#0987
+
+{Embed}
+Leaderboard - Total Stars
+🏅 1:  @Solar Awe - Stars: 228 ✨
+🥈 2:  @haha yes - Stars: 164 ✨
+🥉 3:  @summers - Stars: 122 ✨
+
+🎖 4:  @Salt - Stars: 120 ✨
+🎖 5:  @Ieatplastic_420 - Stars: 95 ✨
+🎖 6:  @5space - Stars: 92 ✨
+🎖 7:  @Unknown - Stars: 77 ✨
+🎖 8:  @dragonam - Stars: 77 ✨
+🎖 9:  @Hapho - Stars: 77 ✨
+🎖 10:  @eeeееееееeeeeeeeeeeeeeeeeeeeee - Stars: 73 ✨
+Your Place: #38 | Page 1/9
+
+
+[28-Jun-22 10:28 PM] CheesyBaconBits#9958
+stars stats
+
+
+[28-Jun-22 10:28 PM] CheesyBaconBits#9958
+star stats
+
+
+[28-Jun-22 10:28 PM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 5
+**Times On Starboard**: 0
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 5
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 0
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 3
+**Most Stars Earned In**: #deleted-channel (9)
+**Most Stars On A Message**: **[5](https://discord.com/channels/926212597513093202/926212598041546784/971917999856549959)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 0%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 0%
+Worldwide Stats
+**Starred Messages**: 5
+**Total Stars**: 14
+**Average Stars Per Message**: 3
+**% Of Starred Messages By You**: 0.0005%
+**Most Stars On A Message**: 5
+
+
+[28-Jun-22 10:28 PM] CheesyBaconBits#9958
+let’s goooo
+
+
+[28-Jun-22 10:58 PM] RuanauR#7900
+star stats
+
+
+[28-Jun-22 10:58 PM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 1
+**Times On Starboard**: 0
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 6
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 0
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 2
+**Most Stars Earned In**: #deleted-channel (10)
+**Most Stars On A Message**: **[4](https://discord.com/channels/926212597513093202/926212598041546784/987523207030530098)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 1%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 0%
+Worldwide Stats
+**Starred Messages**: 6
+**Total Stars**: 11
+**Average Stars Per Message**: 2
+**% Of Starred Messages By You**: 0.0006%
+**Most Stars On A Message**: 4
+
+
+[28-Jun-22 10:58 PM] RuanauR#7900
+How is stars 1 but most stars on a msg 4
+
+
+[29-Jun-22 02:02 AM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+star stats
+
+
+[29-Jun-22 02:02 AM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+star stats
+
+
+[29-Jun-22 02:02 AM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+@Starboard hey fuck you
+
+
+[29-Jun-22 02:02 AM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+where are my stats
+
+
+[29-Jun-22 02:02 AM] eeeееееееeeeeeeeeeeeeeeeeeeeee#1984
+:e_screams:
+
+
+[29-Jun-22 02:47 AM] dragonam#8155
+star stats
+
+
+[29-Jun-22 09:24 AM] Gecko#6855
+star random
+
+
+[29-Jun-22 09:27 AM] Starboard#0987
+No visible starred messages have been found. Messages need to have 5+ stars to show up, so go on and star any funny messages!
+
+
+[29-Jun-22 09:41 AM] Gecko#6855
+star random
+
+
+[29-Jun-22 09:41 AM] Starboard#0987
+💫 **20** | #fan-creations
+
+{Embed}
+caprisun
+literally my life is peaches every single night 😍
+https://media.discordapp.net/attachments/882713079517962250/991462328434429952/Untitled1732_20220628145638.png
+star explore™
+
+
+[29-Jun-22 09:41 AM] Gecko#6855
+star random
+
+
+[29-Jun-22 09:41 AM] Starboard#0987
+
+{Embed}
+Cooldown
+You're using this command too frequently! Please wait 559ms before using it again.
+The cooldown for this command is **5s**. 
+While you wait, why not **[follow my twitter](https://twitter.com/DaNoob27)** for absolutely no reason at all or **[vote for the bot](https://top.gg/bot/655390915325591629/vote)** to have this cooldown sawed in half or **[become a patron](https://patreon.com/TheNoob27)** and unlock some sweet donator only features, and a donator only role in our discord server!
+
+
+[29-Jun-22 09:41 AM] Gecko#6855
+star random
+
+
+[29-Jun-22 09:41 AM] Starboard#0987
+⭐ **8** | #6-hour-meme-channel
+
+{Embed}
+The Improver of Stuff
+https://media.discordapp.net/attachments/679040890379173913/991468787742277804/chadplant_srethyund_rkyujtdrkydrnown-124.png
+star explore™
+
+
+[29-Jun-22 09:42 AM] Gecko#6855
+star random
+
+
+[29-Jun-22 09:42 AM] Starboard#0987
+⭐ **6** | #premier-league-transfers
+
+{Embed}
+HaveCHO🇯🇲
+Grow up
+Replying to kenneth_branagh
+Yep he should be where obeece is
+star explore™
+
+
+[29-Jun-22 09:44 AM] Gecko#6855
+star random
+
+
+[29-Jun-22 09:44 AM] Starboard#0987
+⭐ **9** | #premier-league-transfers
+
+{Embed}
+Nerfarian
+Amad vs CHO bet next season? First to hit 5 g/a before 2026
+Replying to tooooooom
+keep the same energy my brother
+star explore™
+
+
+[29-Jun-22 09:45 AM] Gecko#6855
+star random
+
+
+[29-Jun-22 09:45 AM] Starboard#0987
+✨ **32** | #fan-creations
+
+{Embed}
+LilDarkMage
+Haven't draw for awhile,so have yanthan
+https://media.discordapp.net/attachments/882713079517962250/990510307833167872/Untitled176_20220626135234.png
+star explore™
+
+
+[29-Jun-22 09:45 AM] Gecko#6855
+star random
+
+
+[29-Jun-22 09:45 AM] Starboard#0987
+⭐ **9** | #film-and-tv-channel
+
+{Embed}
+Thiago6
+https://twitter.com/ElectionLegal/status/1541652648797274112 @Unknown @Unknown
+(Pericles 'Perry' Abbasi (@ElectionLegal))
+Iran before the Islamic Revolution
+Likes
+88712
+Retweets
+5825
+https://images-ext-2.discordapp.net/external/0jkGmBpOm67qEpwoGFnG-FoFs6A1uY9V_81187XR4bU/https/pbs.twimg.com/media/FWUM6JKXwAAHhal.jpg
+star explore™
+
+
+[29-Jun-22 09:46 AM] Gecko#6855
+star random
+
+
+[29-Jun-22 09:46 AM] Starboard#0987
+💫 **27** | #fan-creations
+
+{Embed}
+harumi
+"Queers...." Yronica muttered under her breath as she attempt to call her savior, Millie Bobby Brown.
+https://media.discordapp.net/attachments/882713079517962250/988404088955887626/Untitled163_20220620181541.png
+star explore™
+
+
+[29-Jun-22 09:46 AM] Gecko#6855
+star random
+
+
+[29-Jun-22 09:46 AM] Starboard#0987
+🌟 **10** | #screenshot-and-renders
+
+{Embed}
+Flashcom
+the generic has arrived
+https://media.discordapp.net/attachments/818926817825128488/991416671547949086/HOTSTEAMYHOMOSEXUALHOMOSEX.jpg
+star explore™
+
+
+[29-Jun-22 09:52 AM] Gecko#6855
+star random
+
+
+[29-Jun-22 09:52 AM] Starboard#0987
+💫 **25** | #fan-creations
+
+{Embed}
+anormalolive
+cons of being aaaqil
+https://media.discordapp.net/attachments/882713079517962250/987005270335029309/5263A16B-D374-4E34-B50B-7060AB654C56.png
+star explore™
+
+
+[29-Jun-22 11:26 AM] Salt#5507
+star random server
+
+
+[29-Jun-22 11:26 AM] Starboard#0987
+⭐ **7** | #general
+
+{Embed}
+Das#8633
+@Unknown you cant gaslight me anymore
+Replying to Solar Awe#1543
+holy fuck @Unknown you're right
+​
+**[Replying to this message](https://discord.com/channels/926212597513093202/988182740375572540/988611498169470976 "rick roll")**
+
+**[Click to jump to message!](https://discord.com/channels/926212597513093202/988182740375572540/988612286526668831 "starboard bot™")**
+​MessageID: 988612286526668831
+
+
+[29-Jun-22 01:16 PM] Biotic#5170
+star stats
+
+
+[29-Jun-22 01:16 PM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 67
+**Times On Starboard**: 3
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 20
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 9
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 8
+**Most Stars Earned In**: #deleted-channel (59)
+**Most Stars On A Message**: **[23](https://discord.com/channels/926212597513093202/934210848946278401/982093311261159425)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 2%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 45%
+Worldwide Stats
+**Starred Messages**: 20
+**Total Stars**: 163
+**Average Stars Per Message**: 8
+**% Of Starred Messages By You**: 0.0018%
+**Most Stars On A Message**: 23
+
+
+[29-Jun-22 01:16 PM] Biotic#5170
+star random server
+
+
+[29-Jun-22 01:16 PM] Starboard#0987
+No messages have been found from this server.
+
+
+[29-Jun-22 01:16 PM] Biotic#5170
+star random server
+
+
+[29-Jun-22 01:16 PM] Starboard#0987
+
+{Embed}
+Cooldown
+You're using this command too frequently! Please wait 384ms before using it again.
+The cooldown for this command is **5s**. 
+While you wait, why not **[become a patron](https://patreon.com/TheNoob27)** and unlock some sweet donator only features, and a donator only role in our discord server or **[follow my twitter](https://twitter.com/DaNoob27)** for absolutely no reason at all or **[join the support server](https://discord.gg/rZgxfbH)** and have fun talking to us, participate in polls which heavily determine what gets added to the bot, possible giveaways and much much more!
+
+
+[29-Jun-22 01:16 PM] Biotic#5170
+shut upp
+
+
+[29-Jun-22 01:16 PM] Biotic#5170
+star random server
+
+
+[29-Jun-22 01:16 PM] Starboard#0987
+No messages have been found from this server.
+
+
+[29-Jun-22 01:16 PM] Biotic#5170
+damn ight
+
+
+[29-Jun-22 01:16 PM] Biotic#5170
+star random
+
+
+[29-Jun-22 01:16 PM] Starboard#0987
+💫 **24** | #development-images
+
+{Embed}
+Alexthe668
+@everyone @deleted-role Meet the 80th mob for Alex's Mobs, and the fifth and final mob for the Wilder Update, the **Sugar Glider**! This tiny marsupial spawns exclusively within the birch forest biome, and can be seen gliding between the logs and branches of these trees. Sugar Gliders use their long membranes between their limbs to do so. Due to their fondness for fruit & sweets, they can be tamed with sweet berries. Tamed Sugar gliders will not attack, but can be sneak+clicked onto their owners head. Occasionally, tamed sugar gliders will search through leaves blocks for items - which can vary from sticks to saplings, to even rare forest-related items like Hair of Bear and Moose Antlers, that have been lost in the foliage.
+​
+**[sugar\_gliders.mp4](https://cdn.discordapp.com/attachments/713489814170894387/991100453972484096/sugar_gliders.mp4 "parmesan linguine")**
+star explore™
+
+
+[29-Jun-22 01:17 PM] Biotic#5170
+star random
+
+
+[29-Jun-22 01:17 PM] Starboard#0987
+🌟 **12** | #premier-league-transfers
+
+{Embed}
+Elokobi
+this is actually really good odds
+https://media.discordapp.net/attachments/604081332636745773/991377968406462564/FWUkDd6X0AERX6q.jpeg
+star explore™
+
+
+[29-Jun-22 01:17 PM] Biotic#5170
+star random
+
+
+[29-Jun-22 01:17 PM] Starboard#0987
+
+{Embed}
+Cooldown
+You're using this command too frequently! Please wait 1.2s before using it again.
+The cooldown for this command is **5s**. 
+While you wait, why not **[become a patron](https://patreon.com/TheNoob27)** and unlock some sweet donator only features, and a donator only role in our discord server or **[follow my twitter](https://twitter.com/DaNoob27)** for absolutely no reason at all!
+
+
+[29-Jun-22 01:18 PM] Biotic#5170
+star random
+
+
+[29-Jun-22 01:18 PM] Starboard#0987
+⭐ **6** | #✐︱art・show
+
+{Embed}
+VortexSupernova
+https://media.discordapp.net/attachments/719209014042558515/991422989604237402/unknown.png
+star explore™
+
+
+[29-Jun-22 01:18 PM] Biotic#5170
+star random
+
+
+[29-Jun-22 01:18 PM] Starboard#0987
+⭐ **6** | #📖│literature
+
+{Embed}
+Narslimmus
+https://media.discordapp.net/attachments/916084214976372796/991382695949111326/unknown.png
+star explore™
+
+
+[29-Jun-22 01:21 PM] cyan#2123
+star stats
+
+
+[29-Jun-22 01:21 PM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 20
+**Times On Starboard**: 1
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 2
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 1
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 10
+**Most Stars Earned In**: #general (20)
+**Most Stars On A Message**: **[15](https://discord.com/channels/926212597513093202/988203148227268648/991685675575418931)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 0%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 50%
+Worldwide Stats
+**Starred Messages**: 2
+**Total Stars**: 20
+**Average Stars Per Message**: 10
+**% Of Starred Messages By You**: 0.0002%
+**Most Stars On A Message**: 15
+
+
+[29-Jun-22 01:21 PM] cyan#2123
+dang
+
+
+[29-Jun-22 04:34 PM] Gecko#6855
+star stats
+
+
+[29-Jun-22 04:34 PM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 12
+**Times On Starboard**: 0
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 4
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 0
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 4
+**Most Stars Earned In**: #general (11)
+**Most Stars On A Message**: **[6](https://discord.com/channels/926212597513093202/988182740375572540/988858170690633849)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 0%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 0%
+Worldwide Stats
+**Starred Messages**: 4
+**Total Stars**: 14
+**Average Stars Per Message**: 4
+**% Of Starred Messages By You**: 0.0004%
+**Most Stars On A Message**: 6
+
+
+[29-Jun-22 04:35 PM] Gecko#6855
+12 stars 😎
+
+
+[29-Jun-22 04:35 PM] Gecko#6855
+would the same message give me stars again
+
+
+[29-Jun-22 04:35 PM] Gecko#6855
+lets test in #general
+
+
+[29-Jun-22 04:57 PM] Gecko#6855
+it didnt work
+
+
+[29-Jun-22 08:03 PM] dragonam#8155
+star stats
+
+
+[29-Jun-22 08:03 PM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 79
+**Times On Starboard**: 3
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 18
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 5
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 6
+**Most Stars Earned In**: #general (46)
+**Most Stars On A Message**: **[23](https://discord.com/channels/926212597513093202/988203148227268648/989666674405965914)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 2%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 27.78%
+Worldwide Stats
+**Starred Messages**: 18
+**Total Stars**: 110
+**Average Stars Per Message**: 6
+**% Of Starred Messages By You**: 0.0016%
+**Most Stars On A Message**: 23
+
+
+[29-Jun-22 11:35 PM] TheMagicalChez#3228
+star stats
+
+
+[29-Jun-22 11:35 PM] Starboard#0987
+
+{Embed}
+Your Stats
+**Stars**: 61
+**Times On Starboard**: 3
+**Global Points**: 0
+**Trashed**: 0
+​
+**Starred Messages**: 7
+**Locked Messages**: 0
+**Frozen Messages**: 0
+**Messages Currently Trashed**: 0
+**Messages On Starboard Before**: 5
+**Messages On Hall Of Fame**: 0
+**Average Stars Per Message**: 14
+**Most Stars Earned In**: #general (37)
+**Most Stars On A Message**: **[24](https://discord.com/channels/926212597513093202/988203148227268648/991035759282782360)**
+​
+**% Locked**: 0%
+**% Frozen**: 0%
+**% Trashed**: 0%
+**% Of Starred Messages By You**: 1%
+**Hall Of Fame Entries By You**: 0%
+**Chance On Starboard**: 71.43%
+Worldwide Stats
+**Starred Messages**: 7
+**Total Stars**: 95
+**Average Stars Per Message**: 14
+**% Of Starred Messages By You**: 0.0006%
+**Most Stars On A Message**: 24
+
+
+==============================================================
+Exported 744 message(s)
+==============================================================

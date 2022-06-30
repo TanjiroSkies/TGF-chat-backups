@@ -1,0 +1,246 @@
+==============================================================
+Guild: TGForever
+Channel: Information / information
+==============================================================
+
+[20-Jun-22 01:41 PM] Carl-bot#1536
+
+{Embed}
+https://media.discordapp.net/attachments/941385307583041547/988482380081823754/unknown.png
+
+
+[20-Jun-22 01:46 PM] Carl-bot#1536
+
+{Embed}
+Welcome to TGForever!
+TGForever is a community for making friends, playing games, and having fun! We have dedicated servers for both Minecraft and Terraria, and host a number of events for all genres of games, from first person shooters to chess! Whether you enjoy the action of a fast-paced rhythm game, prefer to plan out the perfect strategy in an RPG, or simply want to participate in conversation with others from around the world, this server is the place for you!
+
+
+[20-Jun-22 01:47 PM] Carl-bot#1536
+
+{Embed}
+https://media.discordapp.net/attachments/941385307583041547/988472763423539250/unknown.png
+
+
+[20-Jun-22 01:48 PM] Carl-bot#1536
+
+{Embed}
+Info Category
+This category is where all of our important announcements go, and where other important server information is listed.
+
+#information - You are here! This channel provides general information about the server, in addition to announcement and event ping roles.
+#rules - This channel provides a list of the server's rules and the punishments associated with breaking them.
+#announcements - For all server announcements! Changes made to the server and other important information will be sent here.
+#events - For all server events! Events on both the discord server and our game servers will be announced here.
+#surveys - For all server surveys! Surveys and polls will be sent here to gather community responses.
+#welcome - Where new users' join messages are sent. Server boosts will also be displayed here.
+#change-log - This channel lists changes made by the staff team to our game servers. 
+#donator-log - Any donations made to assist in the running of our game servers will be displayed here. To make a donation to the server, visit https://shop.tgforever.org/.
+
+
+[20-Jun-22 01:49 PM] Carl-bot#1536
+
+{Embed}
+General Category
+This category is for the server's more broad channels, with the discussion of a variety of topics.
+
+#starboard - Our own community-based message hall of fame! Any message that receives 8 or more  reactions will be displayed here.
+#general - The server's hotspot for conversation! Almost any topic can be discussed in this channel.
+#off-topic - A channel for conversations and media that doesn't fit in #off-topic
+#memes - Share your highest quality memes here, or browse the memes that others have sent.
+#suggestions - Make suggestions for changes to the Discord server or our game servers! These will be overviewed by the moderation team on a regular basis.
+#bot-commands - Make use of the server's various bots! All bot commands should be used in this channel.
+
+
+[20-Jun-22 01:49 PM] Carl-bot#1536
+
+{Embed}
+Game Chats Category
+This category displays the chats on our game servers and allows Discord users to converse with those in-game.
+
+#mc-chat - The chat for our Minecraft server
+#terraria-chat - The chat for our Terraria server
+
+
+[20-Jun-22 01:50 PM] Carl-bot#1536
+
+{Embed}
+Gaming Category
+This category is for the server's gaming-related channels, encompassing a variety of games and genres.
+
+#gaming - For all gaming-related content! Discussion and media pertaining to any game may be sent here.
+#minecraft - For all Minecraft-related content! Share your latest build, discuss our Minecraft server, or talk about anything else related to Minecraft!
+#deleted-channel - For media related to our Minecraft server; contributors to this channel can earn an exclusive role.
+#terraria - For all Terraria-related content! From simple blue slimes to Cthulhu's brain and the Empress of Light, talk about anything regarding Terraria here.
+#strategy - For all strategy game-related content! If you enjoy Civilization or Hearts of Iron, this is the channel for you!
+#tabletop - For all tabletop game-related content! From chess to board games, this channel is for any game you would physically play at a table.
+#rhythm - For all rhythm game-related content! Share your highest scores for the sickest beats here.
+
+
+[20-Jun-22 01:51 PM] Carl-bot#1536
+
+{Embed}
+VC Category
+This category is for the server's voice channels, which allow other users to talk and share their screen with one another. All of the server's #rules for text channels also apply here.
+
+#music - A text channel for using music commands or discussing music in general. Text chats are available for each VC for content sharing and for those without a microphone.
+#Chatting 1 [voice] and #Chatting 2 (High Bitrate) [voice] - These two channels are for any general conversations that may be had in voice chat. 
+#Gaming [voice] - This channel is for any gaming-related voice chats or streams.
+#Quiet [voice] - A voice channel with a limited number of users permitted at once. Meant for more slow-paced conversations.
+#brazil (Low Bitrate) [voice] - Do not go here.
+
+
+[20-Jun-22 01:52 PM] Carl-bot#1536
+
+{Embed}
+https://media.discordapp.net/attachments/941385307583041547/988475384171470928/unknown.png
+
+
+[20-Jun-22 01:53 PM] Carl-bot#1536
+
+{Embed}
+@Admin - The server's administrators; in charge of the server and the moderation team.
+
+@Discord Mod - The server's Discord moderation branch, these users are primarily responsible for punishing rule-breaking users and making events and changes on the Discord server.
+
+@Gaming Mod - The server's gaming moderation branch, these users are primarily responsible for enforcing rules, making changes, and planning events on our Minecraft and Terraria servers.
+
+@Content Team - The server's designated content creators, responsible for helping create server events and managing our marketing plans.
+
+@Top Donator - This exclusive role is given to the user who has donated the most money towards the upkeep of TGForever's gaming servers.
+
+@Tier 4 Donator, @Tier 3 Donator, @Tier 2 Donator, @Tier 1 Donator - Roles given to users who have donated to the server through our website, https://shop.tgforever.org/.
+
+@Server Booster - Given to users who have boosted the Discord server.
+
+@Retired Staff - A special role for staff members who have left their position as a token of appreciation for their work on the server.
+
+@Founding Mod - A special role for the moderators who helped us out at the very beginning.
+
+
+[20-Jun-22 01:54 PM] Carl-bot#1536
+
+{Embed}
+https://media.discordapp.net/attachments/941385307583041547/988477779228115024/unknown.png
+
+
+[20-Jun-22 01:54 PM] Carl-bot#1536
+
+{Embed}
+How can I become a moderator of the server?
+Thank you for your interest in helping to moderate TGForever! The moderation team will periodically release moderator applications when we deem it to be necessary. Be sure to keep an eye on #announcements for when you will be able to submit one!
+
+
+[20-Jun-22 01:55 PM] Carl-bot#1536
+
+{Embed}
+How can I appeal a ban?
+If you have not received a permanent ban, any ban given will be lifted after the specified amount of time finishes. If you have been permanently banned, whether on Discord or on one of our game servers, use the following form to fill out a ban appeal: https://forms.gle/iMeT3P2p9zQZVyje9
+
+
+[20-Jun-22 01:56 PM] Carl-bot#1536
+
+{Embed}
+What is the invite code for this server?
+This server's invite code is simply tgf; if this invite link does not work, use [this link](https://discord.gg/TanrrCmRCa) instead.
+
+
+[20-Jun-22 01:57 PM] Carl-bot#1536
+
+{Embed}
+What game servers does the server currently host?
+Currently, TGForever has both a Minecraft server and a Terraria server.
+
+Our Minecraft server is focused on a classic vanilla experience with a handful of quality-of-life upgrades, and is compatible with both Java and Bedrock editions! Use the **IP** `mc.tgforever.org` with the **bedrock port** (if applicable) `9671` to connect to it! Please note that our Minecraft server has a separate rule list from the Discord server, viewable [here](https://docs.google.com/document/d/1f5vupqd3A2K-CiGZ9Wl5e0xdN4SgSVKwhNSIDPDGDVM/edit). All rules in #rules also still apply.
+
+If you're looking for a challenge, some fun, some friends, or all three, the Terraria server is for you! You can join us using the **IP** `terraria.tgforever.org` on **port** `7777`.
+
+
+[20-Jun-22 01:57 PM] Carl-bot#1536
+
+{Embed}
+How can I donate to the server?
+All donations are processed through our website https://shop.tgforever.org/. We currently have tiers available for both our Minecraft and Terraria servers, which will offer special perks for users who purchase them! **Please note that ranks will not carry over between servers.** Custom donations can also be made to the server in addition to rank purchases.
+
+If you encounter any problems when attempting to make a donation, please contact the server’s financial manager, @Unknown
+
+
+[20-Jun-22 01:58 PM] Carl-bot#1536
+
+{Embed}
+https://media.discordapp.net/attachments/941385307583041547/988478882988585060/unknown.png
+
+
+[20-Jun-22 02:15 PM] Carl-bot#1536
+
+{Embed}
+Our current staff team consists of the following members:
+@Admin:
+
+@Unknown :minecraft: `ABlazingEboy`
+@Unknown :minecraft: `OGBUBBY`
+@Unknown :minecraft: `garfield_mc`
+@Unknown :minecraft: `SolarAweTM` / :terraria: `Solar Awe`
+@Unknown :minecraft: `TecnaGamer`
+@Unknown :minecraft: `Wuzado`
+
+@Discord Mod:
+
+@Unknown
+@Unknown
+@Unknown
+@Unknown
+@Unknown
+@Unknown
+
+@Gaming Mod:
+
+@Unknown :minecraft: `DragonAM`
+@Unknown :minecraft: `AncientBlade`  
+@Unknown :minecraft: `Hapho`  
+@Unknown :minecraft: `sokang`  
+@Unknown :minecraft: `KoiiWolf`  
+@Unknown :terraria: `MasterSpider5`  
+@Unknown :minecraft: `xiaonoot`
+
+@Content Team:
+
+@Unknown
+@Unknown
+@Unknown
+@Unknown
+@Unknown
+@Unknown
+@Unknown
+@Unknown
+@Unknown
+@Unknown
+@Unknown
+@Unknown
+@Unknown
+
+
+[20-Jun-22 02:16 PM] Carl-bot#1536
+
+{Embed}
+https://media.discordapp.net/attachments/941385307583041547/988482823168094278/unknown.png
+
+
+[20-Jun-22 02:17 PM] Carl-bot#1536
+
+{Embed}
+📣 - React to this emoji to be notified of announcements pertaining to the Discord server
+🎉 - React to this emoji to be notified of events in the Discord server
+🎮 - React to this emoji to be notified of the server's gaming-related announcements
+🖱️ - React to this emoji to be notified of the server's gaming-related events
+:minecraft: - React to this emoji to be notified of the server's Minecraft-related announcements and events
+:terraria: - React to this emoji to be notified of the server's Terraria-related announcements and events
+📊 - React to this emoji to be notified of surver surveys and polls
+🎱 - React to this emoji to be notified of spur-of-the-moment games, such as Jackbox and Gartic Phone
+
+{Reactions}
+📣 (42) 🎉 (40) 🎮 (36) 🖱️ (33) minecraft (47) terraria (15) 📊 (32) 🎱 (31) 
+
+==============================================================
+Exported 20 message(s)
+==============================================================
